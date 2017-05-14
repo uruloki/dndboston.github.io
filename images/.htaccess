@@ -1,0 +1,13 @@
+# Begin hotlink protection #
+RewriteEngine on
+RewriteCond %{HTTP_REFERER} !^http://downandderbyboston.org/.*$ [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.downandderbyboston.org/.*$ [NC]
+RewriteCond %{HTTP_REFERER} !^http://downandderbybostonor.ipage.com/.*$ [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.downandderbybostonor.ipage.com/.*$ [NC]
+RewriteCond %{HTTP_REFERER} !^http://downandderbyboston.com/.*$ [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.downandderbyboston.com/.*$ [NC]
+RewriteRule .(gif|jpg|png)$ http://www.downandderbyboston.org [R]
+# End hotlink protection #
+
+
+Options +Indexes
