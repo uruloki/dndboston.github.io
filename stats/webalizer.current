@@ -1,0 +1,3662 @@
+# Webalizer V2.23-08 Incremental Data - 05/14/2017 01:15:16
+2017 5 14 1 15 16
+22528 10296 821 452 48 35 716867245 2280 555 1
+1 3 1273 1 14
+2860 881 71079568 94 278 48
+1522 855 67716838 113 201 56
+1991 988 81662747 109 203 56
+4467 1420 109720379 123 371 57
+2658 741 43515337 147 300 71
+1838 1157 76590289 100 209 51
+1126 453 24850405 50 124 40
+1264 792 46348887 77 157 40
+769 510 30159881 40 86 27
+911 659 41280719 65 97 32
+1561 776 56162090 33 116 22
+474 261 11870050 29 53 26
+1084 803 55910055 33 85 29
+3 0 0 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+265 204 14945352 33
+262 193 12593964 35
+145 8 133690 22
+98 72 3617811 15
+308 213 11341076 31
+94 29 454219 28
+486 321 19362903 93
+1156 808 49928817 134
+689 241 10325902 74
+1096 686 42134989 69
+1440 810 58741085 122
+1245 428 22938637 171
+954 625 36884856 108
+1824 580 37458219 129
+825 349 34412770 85
+1337 420 38939448 134
+2163 779 64916312 238
+816 336 26572756 82
+531 396 26337254 58
+1607 780 56434793 133
+1118 727 52371334 100
+2256 533 45589771 219
+1469 663 46430708 115
+344 95 4000579 52
+0
+0
+0
+10296
+0
+0
+0
+0
+0
+4
+0
+679
+196
+0
+10990
+0
+0
+0
+0
+0
+0
+363
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/mobile/themes/images/icons-png/forward-white.png
+1 1 0 243 0 0
+/images/2014/
+0 2 0 16516 0 0
+/script/atc.min.js
+0 2 0 18829 0 0
+/images/2016/IMG_3854.jpg
+1 123 0 10620126 0 0
+/mobile/themes/images/icons-png/carat-r-white.png
+1 1 0 194 0 0
+/images/2014/16797039_213939995742353_2892237554497335555_o.jpg
+1 2 0 293590 0 0
+/images/2015/50.jpg
+1 3 0 269085 0 0
+/mobile/css/fonts/fontawesome-webfont.eot
+0 1 0 70807 0 0
+/images/2016/IMG_3847.jpg
+1 121 0 7173712 0 0
+/mobile/images/sponsors/2017/A1_Navy Yard Bistro_tn.jpg
+1 104 0 94792 0 0
+/images/2014/16797928_213940635742289_4547293168633483140_o.jpg
+1 2 0 198154 0 0
+/images/2015/red.jpg
+1 3 0 154344 0 0
+/mobile/images/celebrity/banner.jpg
+1 130 0 5670000 0 0
+/mobile/themes/images/icons-png/camera-white.png
+1 1 0 251 0 0
+/mobile/css/gfx/dropdown-yahoo-t1.png
+1 7 0 8036 0 0
+/images/2015/9.jpg
+1 3 0 338940 0 0
+/mobile/themes/images/icons-png/clock-white.png
+1 1 0 316 0 0
+/images/2015/chris.jpg
+1 3 0 231954 0 0
+/images/2016/1_IMG_4205.jpg
+1 124 0 7139763 0 0
+/images/2014/16804065_213937559075930_739828364073670034_o.jpg
+1 2 0 111272 0 0
+/mobile/themes/images/icons-png/shop-white.png
+1 1 0 173 0 0
+/mobile/images/sponsors/2017/BlackRiverOutfitters.jpg
+1 8 0 3048368 0 0
+/mobile/themes/images/icons-png/camera-black.png
+1 1 0 250 0 0
+/mobile/themes/images/icons-png/video-black.png
+1 1 0 171 0 0
+/blueimp/img/loading.gif
+1 97 0 136395 0 0
+/mobile/images/sponsors/2017/z1_Alan Rouleau Couture.jpg
+1 14 0 5341028 0 0
+/images/2016/IMG_3849_1.jpg
+1 122 0 4617114 0 0
+/mobile/themes/images/icons-png/calendar-black.png
+1 1 0 146 0 0
+/mobile/themes/images/icons-png/bars-white.png
+1 1 0 135 0 0
+/mobile/themes/images/icons-png/forward-black.png
+1 1 0 233 0 0
+/images/2015/43.jpg
+1 3 0 298974 0 0
+/mobile/css/gfx/dropdown-apple-t1.png
+1 7 0 8134 0 0
+/mobile/images/sponsors/2017/Devany.jpg
+1 6 0 1980378 0 0
+/mobile/themes/images/icons-png/location-white.png
+1 1 0 247 0 0
+/images/2014/16797034_213937192409300_7449456504612728484_o.jpg
+1 2 0 265888 0 0
+/mobile/images/sponsors/2017/Salmagundi_tn.jpg
+1 121 0 1359222 0 0
+/style/font-awesome.min.css
+0 260 0 1839016 0 0
+/mobile/images/sponsors/2017/A2_Jillian_s Billiards.jpg
+1 8 0 5523987 0 0
+/mobile/themes/images/icons-png/arrow-u-r-black.png
+1 1 0 163 0 0
+/images/2014/16797701_213940355742317_8353364072164478955_o.jpg
+1 2 0 156402 0 0
+/mobile/images/favorites/m_home/800/4.jpg
+1 70 0 7547436 0 0
+/images/2015/23.jpg
+1 3 0 328980 0 0
+/mobile/images/sponsors/2017/ReebokCrossFit_tn.jpg
+1 117 0 556080 0 0
+/images/2014/16722679_213937309075955_957637135256547564_o.jpg
+1 2 0 151138 0 0
+/mobile/images/tickets/vipticket.jpg
+1 74 0 1612688 0 0
+/mobile/themes/images/icons-png/shop-black.png
+1 1 0 174 0 0
+/images/2015/kristent.jpg
+1 3 0 338940 0 0
+/images/2015/joeredcarpet.jpg
+1 3 0 267261 0 0
+/images/2014/16797212_213937009075985_2588292216586729776_o.jpg
+1 2 0 175472 0 0
+/mobile/images/celebrity/kennedy.jpg
+1 129 0 841260 0 0
+/mobile/themes/images/icons-png/edit-white.png
+1 1 0 170 0 0
+/mobile/images/entertainment/hat.jpg
+1 129 0 843995 0 0
+/images/2016/IMG_3832.jpg
+1 119 0 5775165 0 0
+/stats/ctry_usage_201704.png
+1 2 0 4584 0 0
+/mobile/themes/images/icons-png/eye-white.png
+1 1 0 253 0 0
+/images/2015/paul.jpg
+1 3 0 303585 0 0
+/images/2016/IMG_3833.jpg
+1 120 0 18072021 0 0
+/images/2014/16722393_214228809046805_8670414013974353755_o.jpg
+1 2 0 175224 0 0
+/mobile/themes/images/icons-png/eye-black.png
+1 1 0 249 0 0
+/images/2016/1_IMG_4201.jpg
+1 120 0 6405945 0 0
+/mobile/images/sponsors/2017/A1E_Revere Hotel Boston Common_tn.jpg
+1 119 0 1048465 0 0
+/blueimp/img/play-pause.png
+1 7 0 4242 0 0
+/images/2016/IMG_3851.jpg
+1 123 0 17873856 0 0
+/images/2015/6.jpg
+1 3 0 287373 0 0
+/images/2016/IMG_3858.jpg
+1 118 0 6973065 0 0
+/mobile/images/sponsors/2017/A1_Serafina.jpg
+1 9 0 3189552 0 0
+/images/2015/39.jpg
+1 3 0 292854 0 0
+/images/2015/1h.jpg
+1 3 0 324426 0 0
+/mobile/images/tickets/generaladmission.jpg
+1 127 0 814017 0 0
+/images/2015/51.jpg
+1 3 0 221331 0 0
+/images/2016/IMG_3853.jpg
+1 121 0 9634352 0 0
+/images/2015/21.jpg
+1 3 0 231564 0 0
+/mobile/images/sponsors/2017/ForeverYoungWineMalbec.jpg
+1 5 0 636655 0 0
+/images/2016/1_IMG_4207.jpg
+1 124 0 6212322 0 0
+/mobile/themes/images/icons-png/carat-l-white.png
+1 1 0 177 0 0
+/images/2014/16819108_214228952380124_3189949998636787570_o.jpg
+1 2 0 198776 0 0
+/mobile/themes/images/icons-png/navigation-white.png
+1 1 0 241 0 0
+/mobile/images/sponsors/2017/Salmagundi.jpg
+1 6 0 8281116 0 0
+/mobile/themes/images/icons-png/minus-white.png
+1 1 0 116 0 0
+/images/2015/7.jpg
+1 3 0 235344 0 0
+/images/2015/1b.jpg
+1 3 0 235299 0 0
+/mobile/images/sponsors/2017/A1B_Abe
+0 132 0 7849914 23 4
+/mobile/themes/images/icons-png/back-white.png
+1 1 0 240 0 0
+/mobile/themes/images/icons-png/heart-black.png
+1 1 0 242 0 0
+/mobile/themes/images/icons-png/home-white.png
+1 1 0 154 0 0
+/images/2015/22.jpg
+1 3 0 278283 0 0
+/mobile/themes/images/icons-png/arrow-l-white.png
+1 1 0 156 0 0
+/mobile/themes/images/icons-png/carat-d-white.png
+1 1 0 213 0 0
+/mobile/themes/images/icons-png/search-black.png
+1 1 0 324 0 0
+/mobile/themes/images/icons-png/refresh-black.png
+1 1 0 295 0 0
+/mobile/css/addevent/addevent.css
+0 276 0 94656 0 0
+/mobile/images/celebrity/gustavo.jpg
+1 128 0 530517 0 0
+/images/2015/z19.jpg
+1 3 0 288237 0 0
+/style/purple/jquery-ui.structure.min.css
+0 2 0 14764 0 0
+/images/2014/16796967_213938699075816_8841433365279538155_o.jpg
+1 2 0 149030 0 0
+/mobile/images/sponsors/2017/JohnAdams.jpg
+1 6 0 911575 0 0
+/mobile/script/jquery.actual.js
+0 275 0 102272 0 0
+/mobile/themes/images/icons-png/phone-white.png
+1 1 0 274 0 0
+/images/2014/16797810_213940242408995_9156333559987052774_o.jpg
+1 2 0 299396 0 0
+/mobile/themes/images/icons-png/arrow-u-white.png
+1 1 0 151 0 0
+/images/2014/16819262_213939042409115_480010888922336085_o.jpg
+1 2 0 367496 0 0
+/images/2014/16797842_214230055713347_7946930014404601845_o.jpg
+1 2 0 188550 0 0
+/mobile/images/sponsors/2017/Devany_tn.jpg
+1 119 0 236656 0 0
+/images/2014/16797425_213937142409305_4948346773439244426_o.jpg
+1 2 0 148996 0 0
+/mobile/images/sponsors/2017/A2_Tapeo_tn.jpg
+1 117 0 289008 0 0
+/mobile/themes/images/icons-png/bullets-white.png
+1 1 0 152 0 0
+/images/2015/downandderby1.jpg
+1 3 0 426948 0 0
+/mobile/images/event-details/map.jpg
+1 127 0 958632 0 0
+/images/2014/16826038_213939925742360_3413377331083580543_o.jpg
+1 2 0 270396 0 0
+/mobile/images/sponsors/2017/WhitneySharpe.jpg
+1 10 0 2924874 0 0
+/mobile/css/gfx/dropdown-outlook-t1.png
+1 7 0 7112 0 0
+/images/2015/betting.jpg
+1 3 0 297612 0 0
+/mobile/themes/images/icons-png/bars-black.png
+1 1 0 132 0 0
+/images/2014/16836008_213940085742344_6552427266324398547_o.jpg
+1 2 0 285794 0 0
+/mobile/images/sponsors/2017/ForeverYoungWineSauvignonBlanc.jpg
+1 5 0 494652 0 0
+/style/fonts/fontawesome-webfont.eot
+0 28 0 1274526 0 0
+/images/2015/30.jpg
+1 3 0 428679 0 0
+/mobile/themes/images/icons-png/lock-white.png
+1 1 0 207 0 0
+/images/2016/1_IMG_4211.jpg
+1 122 0 5091867 0 0
+/images/2015/1j.jpg
+1 3 0 336798 0 0
+/mobile/themes/images/icons-png/alert-white.png
+1 1 0 243 0 0
+/mobile/themes/images/icons-png/carat-l-black.png
+1 1 0 174 0 0
+/blueimp/img/video-play.svg
+0 1 0 274 0 0
+/mobile/images/tickets/vipticket_so.jpg
+1 73 0 2164021 0 0
+/images/2015/41.jpg
+1 3 0 248184 0 0
+/mobile/images/sponsors/2017/A2_Modern Pastry.jpg
+1 4 0 4428936 0 0
+/mobile/themes/images/icons-png/carat-u-white.png
+1 1 0 204 0 0
+/images/2015/28.jpg
+1 3 0 277422 0 0
+/images/2016/1_IMG_4199.jpg
+1 121 0 3981656 0 0
+/mobile/images/sponsors/2017/SkinHealthCenters_tn.jpg
+1 116 0 541782 0 0
+/mobile/images/tickets/vipbooth.jpg
+1 69 0 542752 0 0
+/mobile/themes/images/icons-png/gear-black.png
+1 1 0 318 0 0
+/images/2014/16826153_213939345742418_6369639117822442754_o.jpg
+1 2 0 159126 0 0
+/images/2015/z12.jpg
+1 3 0 246390 0 0
+/images/2014/16797062_214228552380164_162810610813903716_o.jpg
+1 2 0 197086 0 0
+/mobile/themes/images/icons-png/audio-white.png
+1 1 0 314 0 0
+/images/2015/z10.jpg
+1 3 0 284778 0 0
+/mobile/images/sponsors/2017/A1F_SoulCycle.jpg
+1 8 0 6503144 0 0
+/mobile/images/sponsors/2017/
+0 232 0 2716472 6 15
+/mobile/images/respond/banner.jpg
+1 123 0 693177 0 0
+/images/2014/16797078_214227529046933_7992812350836070493_o.jpg
+1 2 0 149252 0 0
+/images/2014/16819460_213937435742609_2536083957320465217_o.jpg
+1 2 0 160216 0 0
+/mobile/themes/images/icons-png/forbidden-black.png
+1 1 0 299 0 0
+/mobile/themes/images/icons-png/heart-white.png
+1 1 0 246 0 0
+/images/2016/IMG_3836.jpg
+1 122 0 8229910 0 0
+/mobile/images/entertainment/louie.jpg
+1 130 0 932700 0 0
+/mobile/themes/derby.min.css
+0 286 0 1531629 0 0
+/images/2016/1_IMG_4215.jpg
+1 123 0 5904174 0 0
+/mobile/images/sponsors/2017/BriarGroup_tn.jpg
+1 49 0 113477 0 0
+/mobile/themes/images/icons-png/arrow-d-white.png
+1 1 0 149 0 0
+/images/2016/1_IMG_4204.jpg
+1 122 0 6244008 0 0
+/mobile/themes/images/icons-png/grid-white.png
+1 1 0 167 0 0
+/stats/usage_201705.html
+1 6 0 735813 0 3
+/stats/usage.png
+1 7 0 20126 0 0
+/mobile/images/favorites/m_home/800/1.jpg
+1 126 0 10679235 0 0
+/mobile/images/sponsors/2017/MarketBasket.jpg
+1 6 0 1481410 0 0
+/mobile/themes/images/icons-png/comment-black.png
+1 1 0 165 0 0
+/mobile/images/favorites/m_home/800/3.jpg
+1 126 0 10214148 0 0
+/mobile/images/sponsors/2017/A1E_Revere Hotel Boston Common.jpg
+1 9 0 9166194 0 0
+/mobile/images/sponsors/2017/ForeverYoungWineSauvignonBlanc_tn.jpg
+1 119 0 260848 0 0
+/mobile/themes/images/icons-png/calendar-white.png
+1 1 0 143 0 0
+/style/yellow/jquery-ui.structure.min.css
+0 2 0 14764 0 0
+/mobile/images/fw.gif
+1 82 0 3399064 0 0
+/mobile/images/sponsors/2017/BrantTheIntuitiveMedium_tn.jpg
+1 120 0 636898 0 0
+/images/2015/42.jpg
+1 3 0 275670 0 0
+/mobile/images/sponsors/2017/A2_Chopps_tn.jpg
+1 118 0 608048 0 0
+/mobile/images/sponsors/2017/A1C_TheBostonBeerCompany_tn.jpg
+1 121 0 509880 0 0
+/images/2014/16836143_214228092380210_6451024462196350443_o.jpg
+1 2 0 161952 0 0
+/mobile/css/derby.css
+0 283 0 608240 0 0
+/images/2016/IMG_3844.jpg
+1 117 0 8065548 0 0
+/style/addevent.css
+0 2 0 2393 0 0
+/mobile/images/tickets/donation.jpg
+1 127 0 477546 0 0
+/images/2016/IMG_3846.jpg
+1 119 0 19351420 0 0
+/favicon.ico
+0 720 0 0 0 0
+/images/2015/1m.jpg
+1 3 0 315090 0 0
+/mobile/themes/images/icons-png/grid-black.png
+1 1 0 160 0 0
+/mobile/images/sponsors/2017/BillBrett.jpg
+1 6 0 4252380 0 0
+/mobile/images/entertainment/joan-rivers.jpg
+1 127 0 721636 0 0
+/mobile/images/sponsors/2017/WAGSCharlestown.jpg
+1 10 0 7876154 0 0
+/mobile/themes/images/icons-png/action-black.png
+1 1 0 219 0 0
+/mobile/images/sponsors/2017/WAGSCharlestown_tn.jpg
+1 119 0 625296 0 0
+/mobile/images/sponsors/2017/z999_Anywhere Admin_tn.jpg
+1 119 0 297308 0 0
+/blueimp/img/video-play.png
+1 1 0 2811 0 0
+/mobile/images/event-details/laura.jpg
+1 126 0 644280 0 0
+/mobile/images/event-details/serafina.jpg
+1 128 0 565958 0 0
+/mobile/themes/images/icons-png/star-black.png
+1 1 0 231 0 0
+/images/2015/31.jpg
+1 3 0 363066 0 0
+/images/2014/16722692_213941695742183_8311174667597993347_o.jpg
+1 2 0 321944 0 0
+/mobile/themes/images/icons-png/plus-white.png
+1 1 0 124 0 0
+/images/2015/49.jpg
+1 3 0 200103 0 0
+/images/2014/16825870_213937615742591_3846066165116685258_o.jpg
+1 2 0 270816 0 0
+/mobile/themes/images/icons-png/recycle-black.png
+1 1 0 243 0 0
+/images/2015/
+0 3 0 27261 0 1
+/mobile/images/tickets/tophat.jpg
+1 128 0 786824 0 0
+/images/2016/1_IMG_4195.jpg
+1 124 0 6131490 0 0
+/mobile/themes/images/icons-png/check-black.png
+1 1 0 169 0 0
+/mobile/css/fonts/fontawesome-webfont.woff2
+0 10 0 399744 0 0
+/images/2016/
+0 227 0 1449395 11 4
+/style/fonts/fontawesome-webfont.svg
+0 1 0 365616 0 0
+/mobile/images/sponsors/2017/A2_Tapeo.jpg
+1 4 0 1081924 0 0
+/blueimp/css/blueimp-gallery.min.css
+0 284 0 529074 0 0
+/mobile/themes/images/ajax-loader.gif
+1 121 0 343310 0 0
+/mobile/images/horsehome.jpg
+1 131 0 1464852 0 0
+/mobile/images/sponsors/2017/BlackRiverOutfitters_tn.jpg
+1 117 0 471130 0 0
+/mobile/themes/images/icons-png/info-black.png
+1 1 0 250 0 0
+/images/benefit_for_respond.jpg
+1 125 0 552392 0 0
+/mobile/images/tickets/vipbooth_so.jpg
+1 71 0 832314 0 0
+/images/2014/16825973_214228295713523_4725154101977766432_o.jpg
+1 2 0 198840 0 0
+/mobile/images/sponsors/2017/A1D_ElizabethGrady.jpg
+1 8 0 1635616 0 0
+/images/2016/IMG_3845.jpg
+1 121 0 7099176 0 0
+/images/2015/1f.jpg
+1 3 0 247980 0 0
+/mobile/themes/images/icons-png/video-white.png
+1 1 0 170 0 0
+/mobile/images/sponsors/2017/NelseKariniMakeupArtistry.jpg
+1 6 0 1042885 0 0
+/images/2014/16804463_213941402408879_1852285358496026111_o.jpg
+1 2 0 200202 0 0
+/images/2014/16826151_213937229075963_1472026021635847228_o.jpg
+1 2 0 323532 0 0
+/images/2014/16835816_213940415742311_1512909679760100735_o.jpg
+1 2 0 155282 0 0
+/blueimp/js/jquery.blueimp-gallery.min.js
+0 279 0 2592162 0 0
+/blueimp/img/error.png
+1 1 0 2216 0 0
+/mobile/themes/images/icons-png/arrow-u-r-white.png
+1 1 0 165 0 0
+/images/2016/IMG_3841.jpg
+1 118 0 9529110 0 0
+/images/2015/1c.jpg
+1 3 0 252375 0 0
+/mobile/themes/images/icons-png/navigation-black.png
+1 1 0 242 0 0
+/mobile/images/favorites/m_home/800/6.jpg
+1 60 0 7570772 0 0
+/mobile/themes/images/icons-png/carat-r-black.png
+1 1 0 184 0 0
+/images/2014/16707363_213938865742466_6235970077888277004_o.jpg
+1 2 0 226746 0 0
+/images/2015/z18.jpg
+1 3 0 339705 0 0
+/mobile/css/font-awesome.min.css
+0 21 0 329376 0 0
+/mobile/images/sponsors/2017/A1F_SoulCycle_tn.jpg
+1 119 0 668154 0 0
+/mobile/images/sponsors/2017/A1F_Kimpton Muse Hotel NYC_tn.jpg
+1 119 0 467390 0 0
+/images/2014/16826234_213937492409270_4248507389454468288_o.jpg
+1 2 0 218648 0 0
+/mobile/themes/jquery.mobile.icons.min.css
+0 284 0 9656028 0 0
+/stats/hourly_usage_201704.png
+1 2 0 4284 0 0
+/images/2014/16797734_213940499075636_5337190496287073202_o.jpg
+1 2 0 298020 0 0
+/images/2015/44.jpg
+1 3 0 278529 0 0
+/images/2016/1_IMG_4220.jpg
+1 123 0 5641860 0 0
+/style/downandderby.css
+0 2 0 6755 0 0
+/mobile/themes/images/icons-png/arrow-d-black.png
+1 1 0 146 0 0
+/images/2014/16836113_214229845713368_2776365528311463709_o.jpg
+1 2 0 345056 0 0
+/images/2014/16804162_214227312380288_4714325623936963978_o.jpg
+1 2 0 211176 0 0
+/mobile/images/sponsors/2017/A1A_RedSox_tn.jpg
+1 124 0 542697 0 0
+/mobile/images/sponsors/2017/z999_Anywhere Admin.jpg
+1 13 0 1870044 0 0
+/mobile/images/sponsors/2017/VictoriaTrinchitella.jpg
+1 10 0 6849018 0 0
+/mobile/images/sponsors/2017/ForeverYoungWineRose.jpg
+1 6 0 1142165 0 0
+/mobile/themes/images/icons-png/info-white.png
+1 1 0 251 0 0
+/images/2015/shots.jpg
+1 3 0 263421 0 0
+/images/2015/andrea.jpg
+1 3 0 275631 0 0
+/mobile/themes/images/icons-png/edit-black.png
+1 1 0 163 0 0
+/mobile/themes/images/icons-png/comment-white.png
+1 1 0 160 0 0
+/mobile/images/sponsors/2017/BeautyPaRLR
+0 125 0 2098262 8 6
+/images/2014/16819492_213941809075505_8535050067111496484_o.jpg
+1 2 0 223086 0 0
+/mobile/themes/images/icons-png/arrow-d-r-black.png
+1 1 0 159 0 0
+/mobile/themes/images/icons-png/user-white.png
+1 1 0 245 0 0
+/images/2016/IMG_3839.jpg
+1 120 0 8741862 0 0
+/images/2015/z16.jpg
+1 3 0 228915 0 0
+/mobile/css/fonts/fontawesome-webfont.ttf
+0 1 0 142072 0 0
+/images/2014/16797169_214227709046915_3452593516642995844_o.jpg
+1 2 0 231422 0 0
+/mobile/images/sponsors/2017/A2_Chopps.jpg
+1 10 0 6378570 0 0
+/mobile/css/fonts/fontawesome-webfont.svg
+0 1 0 365616 0 0
+/mobile/css/fonts/GreatVibes.woff
+0 21 0 341220 0 0
+/mobile/themes/images/icons-png/check-white.png
+1 1 0 172 0 0
+/style/fonts/fontawesome-webfont.woff
+0 42 0 1838936 0 0
+/mobile/images/sponsors/2017/Bastille Kitchen.jpg
+1 5 0 4602085 0 0
+/mobile/images/sponsors/2017/A1_AtlanticFish_tn.jpg
+1 120 0 493240 0 0
+/mobile/themes/images/icons-png/power-white.png
+1 1 0 302 0 0
+/mobile/themes/images/icons-png/tag-black.png
+1 1 0 159 0 0
+/mobile/themes/images/icons-png/arrow-d-r-white.png
+1 1 0 171 0 0
+/images/2014/16715897_213939845742368_3791061618802614172_o.jpg
+1 2 0 292104 0 0
+/images/2015/1o.jpg
+1 3 0 367308 0 0
+/images/2015/1k.jpg
+1 3 0 436011 0 0
+/images/2016/1_IMG_4192.jpg
+1 124 0 5217723 0 0
+/mobile/themes/images/icons-png/arrow-d-l-white.png
+1 1 0 173 0 0
+/mobile/themes/images/icons-png/delete-white.png
+1 1 0 185 0 0
+/mobile/images/sponsors/2017/Maggianos_tn.jpg
+1 90 0 218880 0 0
+/mobile/themes/images/icons-png/arrow-r-white.png
+1 1 0 152 0 0
+/stats/daily_usage_201705.png
+1 5 0 14180 0 0
+/images/2015/1e.jpg
+1 3 0 266013 0 0
+/images/2015/1d.jpg
+1 3 0 315918 0 0
+/mobile/images/sponsors/2017/JohnAdams_tn.jpg
+1 119 0 304643 0 0
+/images/2016/IMG_3849.jpg
+1 119 0 17886624 0 0
+/images/2014/16722728_213938729075813_8223836186130455986_o.jpg
+1 2 0 150160 0 0
+/mobile/css/gfx/dropdown-google-t1.png
+1 7 0 8281 0 0
+/images/2015/1i.jpg
+1 3 0 326853 0 0
+/script/jquery-validation/jquery.validate.min.js
+0 2 0 22691 0 0
+/mobile/css/gfx/icon-calendar-t1.png
+1 109 0 63129 0 0
+/blueimp/js/jquery.blueimp-gallery.min.js.map
+0 2 0 73182 0 0
+/mobile/images/sponsors/2017/EyeVDesigns_tn.jpg
+1 103 0 123584 0 0
+/mobile/images/sponsors/2017/A2_Teatro_tn.jpg
+1 118 0 305085 0 0
+/images/2015/hangloose.jpg
+1 3 0 261426 0 0
+/mobile/themes/images/icons-png/user-black.png
+1 1 0 245 0 0
+/images/2016/1_IMG_4208.jpg
+1 123 0 6130122 0 0
+/mobile/themes/images/icons-png/alert-black.png
+1 1 0 244 0 0
+/mobile/themes/images/icons-png/delete-black.png
+1 1 0 171 0 0
+/mobile/images/sponsors/2017/BillBrett_tn.jpg
+1 119 0 1144055 0 0
+/mobile/images/favorites/m_home/800/
+0 234 0 385632 12 3
+/mobile/images/sponsors/2017/A1F_Kimpton Muse Hotel NYC.jpg
+1 7 0 1719417 0 0
+/images/2016/1_IMG_4193.jpg
+1 125 0 5831898 0 0
+/mobile/themes/images/icons-png/tag-white.png
+1 1 0 159 0 0
+/images/2015/1g.jpg
+1 3 0 299556 0 0
+/blueimp/img/error.svg
+0 4 0 1224 0 0
+/mobile/images/entertainment/banner.jpg
+1 128 0 5023260 0 0
+/images/2015/david.jpg
+1 3 0 317211 0 0
+/mobile/themes/images/icons-png/audio-black.png
+1 1 0 307 0 0
+/images/2016/IMG_3850.jpg
+1 119 0 7103646 0 0
+/images/2014/16804250_214227812380238_561734676992602700_o.jpg
+1 2 0 182520 0 0
+/mobile/images/celebrity/julia.jpg
+1 127 0 545780 0 0
+/style/purple/downandderby-purple.css
+0 2 0 833 0 0
+/images/2016/1_IMG_4203.jpg
+1 118 0 5860910 0 0
+/mobile/themes/images/icons-png/arrow-l-black.png
+1 1 0 149 0 0
+/mobile/images/food-drink/banner.jpg
+1 127 0 1126605 0 0
+/mobile/script/dd-mobile.js
+0 277 0 953045 0 0
+/mobile/images/sponsors/2017/WhitneySharpe_tn.jpg
+1 118 0 656040 0 0
+/images/2016/IMG_3848.jpg
+1 123 0 8953959 0 0
+/mobile/images/favorites/m_home/800/5.jpg
+1 65 0 5286274 0 0
+/images/2014/16797309_213939432409076_7947987028989283165_o.jpg
+1 2 0 174764 0 0
+/mobile/images/sponsors/2017/A1A_RedSox.jpg
+1 13 0 3630693 0 0
+/mobile/images/sponsors/2017/VictoriaTrinchitella_tn.jpg
+1 118 0 431585 0 0
+/mobile/images/sponsors/2017/Dooney 
+0 128 0 4407163 14 26
+/images/2014/16715978_213940139075672_5901122399592274510_o.jpg
+1 2 0 111482 0 0
+/images/2015/1a.jpg
+1 3 0 311721 0 0
+/images/2015/33.jpg
+1 3 0 278664 0 0
+/mobile/images/directions/banner.jpg
+1 126 0 962467 0 0
+/images/2014/16665181_213937352409284_5166588483316107481_o.jpg
+1 2 0 264440 0 0
+/images/2015/cheering.jpg
+1 3 0 299169 0 0
+/images/2015/2.jpg
+1 3 0 353964 0 0
+/images/2016/IMG_3856.jpg
+1 120 0 9373045 0 0
+/images/2015/40.jpg
+1 3 0 207207 0 0
+/mobile/images/sponsors/2017/ForeverYoungWineMalbec_tn.jpg
+1 104 0 129696 0 0
+/images/2014/16716170_213940562408963_641577569615483726_o.jpg
+1 2 0 277246 0 0
+/images/2015/46.jpg
+1 3 0 279126 0 0
+/mobile/images/sponsors/2017/A2_Modern Pastry_tn.jpg
+1 117 0 352296 0 0
+/images/2016/1_IMG_4202.jpg
+1 122 0 6672306 0 0
+/mobile/themes/images/icons-png/lock-black.png
+1 1 0 204 0 0
+/images/2015/1z.jpg
+1 3 0 241083 0 0
+/images/2016/1_IMG_4214.jpg
+1 119 0 5688650 0 0
+/images/2016/1_IMG_4191.jpg
+1 121 0 6055504 0 0
+/images/2015/group.jpg
+1 3 0 278466 0 0
+/mobile/images/sponsors/2017/Bastille Kitchen_tn.jpg
+1 121 0 311465 0 0
+/images/2015/steve.jpg
+1 3 0 384501 0 0
+/images/2016/1_IMG_4219.jpg
+1 123 0 6349515 0 0
+/images/2015/3.jpg
+1 3 0 270315 0 0
+/images/2014/16825782_213939645742388_6650015601037746302_o.jpg
+1 2 0 186498 0 0
+/images/2016/IMG_3842.jpg
+1 118 0 9779952 0 0
+/mobile/themes/images/icons-png/gear-white.png
+1 1 0 302 0 0
+/script/jquery-1.12.1.min.js
+0 2 0 97403 0 0
+/images/2015/z11.jpg
+1 3 0 305859 0 0
+/mobile/themes/images/icons-png/refresh-white.png
+1 1 0 301 0 0
+/mobile/images/sponsors/2017/ReebokCrossFit.jpg
+1 6 0 2183725 0 0
+/images/2016/IMG_3855.jpg
+1 118 0 13821060 0 0
+/mobile/themes/images/icons-png/plus-black.png
+1 1 0 123 0 0
+/mobile/themes/images/icons-png/mail-white.png
+1 1 0 227 0 0
+/mobile/themes/images/icons-png/home-black.png
+1 1 0 150 0 0
+/mobile/themes/images/icons-png/forbidden-white.png
+1 1 0 308 0 0
+/images/2014/16797225_213939535742399_5840957737007967022_o.jpg
+1 2 0 353124 0 0
+/
+0 405 0 3781577 342 70
+/mobile/images/sponsors/2017/A2_Teatro.jpg
+1 4 0 1530084 0 0
+/mobile/themes/images/icons-png/arrow-r-black.png
+1 1 0 147 0 0
+/mobile/themes/images/icons-png/carat-d-black.png
+1 1 0 207 0 0
+/stats/ctry_usage_201705.png
+1 5 0 11350 0 0
+/mobile/themes/images/icons-png/bullets-black.png
+1 1 0 147 0 0
+/images/2016/1_IMG_4217.jpg
+1 122 0 5138046 0 0
+/mobile/images/sponsors/2017/BrantTheIntuitiveMedium.jpg
+1 7 0 6341384 0 0
+/mobile/images/sponsors/2017/EyeVDesigns.jpg
+1 5 0 705770 0 0
+/mobile/images/sponsors/2017/A2_Estragon.jpg
+1 8 0 2654694 0 0
+/mobile/images/sponsors/2017/NelseKariniMakeupArtistry_tn.jpg
+1 120 0 288144 0 0
+/mobile/images/sponsors/2017/MarketBasket_tn.jpg
+1 119 0 457408 0 0
+/mobile/images/sponsors/2017/ChuckleHounds.jpg
+1 7 0 6145610 0 0
+/images/2015/27.jpg
+1 3 0 341403 0 0
+/mobile/css/gfx/dropdown-facebook-t1.png
+1 7 0 7553 0 0
+/blueimp/img/play-pause.svg
+0 216 0 5348 0 0
+/mobile/themes/images/icons-png/back-black.png
+1 1 0 233 0 0
+/images/2016/1_IMG_4206.jpg
+1 121 0 6278322 0 0
+/script/downandderby.js
+0 2 0 14008 0 0
+/images/2014/16835907_213941222408897_4097600363542155291_o.jpg
+1 2 0 190172 0 0
+/mobile/images/sponsors/2017/A1_PartyFavors_tn.jpg
+1 123 0 294519 0 0
+/stats/daily_usage_201704.png
+1 2 0 7464 0 0
+/mobile/images/sponsors/2017/BriarGroup.jpg
+1 11 0 902742 0 0
+/mobile/images/sponsors/2017/ForeverYoungWineRose_tn.jpg
+1 102 0 124410 0 0
+/style/purple/jquery-ui.theme.min.css
+0 2 0 13784 0 0
+/images/2015/5.jpg
+1 3 0 170472 0 0
+/mobile/themes/images/icons-png/cloud-white.png
+1 1 0 210 0 0
+/mobile/images/sponsors/2017/A1_AtlanticFish.jpg
+1 9 0 2172105 0 0
+/images/2015/38.jpg
+1 3 0 310392 0 0
+/images/2015/1n.jpg
+1 3 0 260466 0 0
+/mobile/images/entertainment/5050.jpg
+1 126 0 711531 0 0
+/stats/usage_201704.html
+1 2 0 313262 0 0
+/blueimp/css/blueimp-gallery.min.css.map
+0 2 0 6238 0 0
+/mobile/themes/images/icons-png/power-black.png
+1 1 0 292 0 0
+/mobile/images/sponsors/2017/A1_Navy Yard Bistro.jpg
+1 10 0 4030173 0 0
+/images/2015/trumpet.jpg
+1 3 0 215289 0 0
+/images/2015/mary.jpg
+1 3 0 401775 0 0
+/images/banner-blue.jpg
+1 120 0 1768130 0 0
+/mobile/themes/images/icons-png/mail-black.png
+1 1 0 226 0 0
+/images/2015/20.jpg
+1 3 0 259476 0 0
+/mobile/images/fw2.gif
+1 76 0 3003824 0 0
+/mobile/images/event-details/banner.jpg
+1 127 0 5908784 0 0
+/mobile/images/entertainment/dj.jpg
+1 128 0 484706 0 0
+/images/2016/1_IMG_4213.jpg
+1 120 0 5988477 0 0
+/mobile/images/sponsors/2017/A1_PartyFavors.jpg
+1 10 0 3769623 0 0
+/mobile/images/sponsors/2017/A1C_TheBostonBeerCompany.jpg
+1 9 0 3840840 0 0
+/stats/
+1 10 0 100476 5 1
+/style/fonts/fontawesome-webfont.woff2
+0 211 0 3397824 0 0
+/images/2015/z13.jpg
+1 3 0 195408 0 0
+/mobile/images/sponsors/2017/Maggianos.jpg
+1 4 0 1516392 0 0
+/mobile/themes/images/icons-png/action-white.png
+1 1 0 227 0 0
+/mobile/images/sponsors/2017/A1D_ElizabethGrady_tn.jpg
+1 104 0 70516 0 0
+/images/2016/1_IMG_4218.jpg
+1 121 0 4714071 0 0
+/mobile/images/sponsors/2017/A1_Serafina_tn.jpg
+1 119 0 539616 0 0
+/images/2016/1_IMG_4210.jpg
+1 118 0 4722592 0 0
+/images/2016/IMG_3837.jpg
+1 120 0 9660672 0 0
+/style/blueimp-gallery.min.css
+0 2 0 6502 0 0
+/images/2015/4.jpg
+1 3 0 252270 0 0
+/images/2015/35.jpg
+1 3 0 321429 0 0
+/style/fonts/fontawesome-webfont.ttf
+0 5 0 710360 0 0
+/stats/hourly_usage_201705.png
+1 5 0 10342 0 0
+/mobile/images/sponsors/2017/A2_Jillian_s Billiards_tn.jpg
+1 124 0 832242 0 0
+/mobile/images/event-details/respond.jpg
+1 125 0 391020 0 0
+/mobile/images/pictures/banner.jpg
+1 128 0 3328736 0 0
+/images/2016/IMG_3834.jpg
+1 121 0 12742408 0 0
+/mobile/themes/images/icons-png/arrow-u-l-white.png
+1 1 0 169 0 0
+/mobile/images/event-details/paper.jpg
+1 129 0 1350878 0 0
+/images/2015/z15.jpg
+1 3 0 281304 0 0
+/images/2015/1l.jpg
+1 3 0 325323 0 0
+/mobile/images/sponsors/2017/ChuckleHounds_tn.jpg
+1 114 0 446367 0 0
+/mobile/themes/images/icons-png/carat-u-black.png
+1 1 0 196 0 0
+/mobile/themes/images/icons-png/arrow-u-black.png
+1 1 0 147 0 0
+/mobile/themes/images/icons-png/minus-black.png
+1 1 0 116 0 0
+/mobile/images/favorites/m_home/800/2.jpg
+1 124 0 9506255 0 0
+/images/2015/47.jpg
+1 3 0 335871 0 0
+/mobile/themes/images/icons-png/clock-black.png
+1 1 0 310 0 0
+/mobile/images/sponsors/2017/SkinHealthCenters.jpg
+1 8 0 2144891 0 0
+/mobile/images/favorites/m_home/800/7.jpg
+1 126 0 4793700 0 0
+/images/2015/45.jpg
+1 3 0 265011 0 0
+/mobile/images/sponsors/2017/z1_Alan Rouleau Couture_tn.jpg
+1 121 0 237234 0 0
+/mobile/themes/images/icons-png/search-white.png
+1 1 0 321 0 0
+/mobile/images/favorites/m_home/800/louie-bello.jpg
+1 124 0 6629226 0 0
+/images/2014/16836211_214227205713632_5659855611065186775_o.jpg
+1 2 0 178280 0 0
+/images/2016/1_IMG_4197.jpg
+1 123 0 6125334 0 0
+/mobile/themes/images/icons-png/location-black.png
+1 1 0 245 0 0
+/mobile/themes/images/icons-png/star-white.png
+1 1 0 239 0 0
+/mobile/images/tickets/banner.jpg
+1 123 0 2113498 0 0
+/mobile/themes/images/icons-png/cloud-black.png
+1 1 0 212 0 0
+/images/2014/16707662_214229502380069_2169189358772173070_o.jpg
+1 2 0 251888 0 0
+/mobile/themes/images/icons-png/recycle-white.png
+1 1 0 253 0 0
+/mobile/themes/images/icons-png/arrow-d-l-black.png
+1 1 0 167 0 0
+/images/2015/ll1.jpg
+1 3 0 50475 0 0
+/mobile/images/entertainment/derby.jpg
+1 130 0 1103772 0 0
+/images/respondPhoto.jpg
+1 122 0 2321972 0 0
+/mobile/images/sponsors/2017/A2_Estragon_tn.jpg
+1 120 0 433496 0 0
+/images/2015/laughing.jpg
+1 3 0 251580 0 0
+/images/2014/16819047_213936975742655_6674632022860353541_o.jpg
+1 2 0 229576 0 0
+/mobile/themes/images/icons-png/phone-black.png
+1 1 0 270 0 0
+/mobile/themes/images/icons-png/arrow-u-l-black.png
+1 1 0 163 0 0
+# End Of Table - urls
+# -sites- (monthly)
+204.154.151.242
+0 1 1 0 0 0
+-
+40.77.167.155
+0 1 0 767 0 0
+-
+72.30.14.69
+0 1 0 767 0 0
+-
+138.197.111.241
+0 2 0 767 1 1494135747
+/
+174.192.6.84
+0 6 3 20550 1 1493941366
+/images/2016/
+199.30.24.55
+0 2 0 0 0 0
+-
+50.177.30.133
+0 4 4 16549 0 0
+-
+68.195.246.186
+0 7 7 160062 0 0
+-
+173.162.173.181
+0 227 206 12736357 2 1494250645
+/mobile/images/sponsors/2017/BeautyPaRLR
+24.60.101.168
+0 1 1 0 0 0
+-
+76.19.138.217
+0 7 3 20538 1 1493970080
+/mobile/images/sponsors/2017/
+65.55.210.42
+0 2 0 0 0 0
+-
+178.137.83.79
+0 25 0 18408 4 1494635583
+-
+66.251.11.178
+0 5 4 19749 1 1493896263
+/mobile/images/sponsors/2017/
+174.192.32.55
+0 18 3 19775 1 1493642025
+/images/2016/
+209.104.251.186
+0 2 2 70807 0 0
+-
+108.34.150.76
+0 155 136 12577276 1 1494715013
+/images/2014/
+73.126.64.115
+0 3 2 22748 1 1494231632
+/
+65.55.210.67
+0 4 0 0 1 1493999051
+/mobile/images/sponsors/2017/A1B_Abe
+75.27.152.4
+0 21 21 1528398 1 1493915701
+/mobile/images/sponsors/2017/A1B_Abe
+208.87.234.180
+0 75 2 5443 1 1494010954
+/
+75.147.45.201
+0 14 10 906422 1 1493991859
+-
+107.77.106.75
+0 2 2 255651 0 0
+-
+66.249.64.161
+0 1 0 767 0 0
+-
+193.109.196.173
+0 20 6 95234 1 1493926828
+/mobile/images/sponsors/2017/
+66.249.66.249
+0 6 5 217839 0 0
+-
+40.77.167.72
+0 1 0 0 1 1494700867
+/
+107.77.76.18
+0 1 1 0 0 0
+-
+108.49.43.74
+0 23 8 177498 1 1493703246
+/mobile/images/sponsors/2017/
+66.87.125.23
+0 70 58 6402753 2 1494109726
+/images/2016/
+107.77.106.55
+0 1 0 0 0 0
+-
+5.9.84.41
+0 1 0 0 1 1493794360
+/
+107.77.106.96
+0 6 0 0 0 0
+-
+199.30.24.10
+0 4 0 217 0 0
+-
+96.237.59.179
+0 2 2 30485 0 0
+-
+138.197.111.146
+0 2 0 767 1 1494009834
+/
+172.58.217.81
+0 25 22 1627172 2 1493908992
+/mobile/images/sponsors/2017/Dooney 
+40.77.167.146
+0 1 0 767 0 0
+-
+173.252.91.105
+0 1 1 32002 0 0
+-
+141.8.143.202
+0 1 1 0 0 0
+-
+73.69.65.77
+0 3 3 0 0 0
+-
+173.208.203.106
+0 2 0 0 1 1494000076
+-
+50.199.245.193
+0 9 9 716382 1 1493974472
+/mobile/images/sponsors/2017/Dooney 
+77.88.47.39
+0 1 0 767 0 0
+-
+74.104.162.49
+0 857 752 49553443 9 1494661746
+/mobile/images/sponsors/2017/Dooney 
+73.219.233.126
+0 141 126 8896647 1 1494202140
+/mobile/images/sponsors/2017/A1B_Abe
+50.195.42.6
+0 10 0 0 1 1493995497
+/
+107.77.76.26
+0 2 0 0 0 0
+-
+41.212.41.29
+0 1 0 767 1 1493765855
+-
+199.30.24.51
+0 4 0 273 1 1494382023
+-
+50.224.58.82
+0 1 1 0 0 0
+-
+71.232.24.207
+0 1 1 47432 0 0
+-
+157.55.39.20
+0 3 0 2301 0 0
+-
+207.35.45.230
+0 1 1 0 0 0
+-
+216.211.248.45
+0 7 5 550858 0 0
+-
+40.77.167.171
+0 1 0 767 0 0
+-
+98.229.25.241
+0 18 4 19775 1 1493656603
+/mobile/images/sponsors/2017/
+73.218.9.183
+0 69 3 20805 1 1494021602
+/mobile/images/sponsors/2017/BeautyPaRLR
+131.253.24.134
+0 3 0 0 0 0
+-
+173.252.120.96
+0 1 0 0 1 1494319517
+/
+100.0.186.35
+0 202 138 8768804 3 1494272562
+/mobile/images/sponsors/2017/Dooney 
+75.136.75.222
+0 3 3 250321 0 0
+-
+192.80.65.187
+0 16 5 20297 1 1493743080
+/mobile/images/sponsors/2017/
+216.195.12.123
+0 133 8 145871 1 1493801210
+/mobile/images/sponsors/2017/Dooney 
+100.0.189.183
+0 2 2 0 0 0
+-
+157.55.39.109
+0 9 1 47432 0 0
+-
+76.19.145.73
+0 3 1 1534 0 0
+-
+173.166.42.178
+0 21 7 347000 1 1493623361
+/mobile/images/sponsors/2017/
+24.2.186.77
+0 137 7 40736 1 1494167631
+/mobile/images/sponsors/2017/Dooney 
+159.203.171.16
+0 8 0 1556 1 1493727711
+-
+172.56.22.244
+0 149 5 20805 1 1494249663
+/mobile/images/sponsors/2017/Dooney 
+174.192.29.217
+0 139 0 0 1 1494066401
+/mobile/images/sponsors/2017/Dooney 
+107.77.161.8
+0 4 4 0 0 0
+-
+180.76.15.160
+0 1 0 767 0 0
+-
+199.30.25.150
+0 2 0 0 0 0
+-
+66.249.64.12
+0 2 0 0 0 0
+-
+38.111.32.130
+0 23 23 1326800 1 1493718299
+/mobile/images/sponsors/2017/A1B_Abe
+66.249.66.110
+0 53 16 480733 3 1494648016
+/
+131.253.26.255
+0 6 0 0 0 0
+-
+23.25.249.89
+0 2 2 0 0 0
+-
+146.115.40.64
+0 3 1 1534 0 0
+-
+204.13.201.139
+0 14 10 123870 1 1493651433
+/mobile/images/sponsors/2017/
+74.8.117.34
+0 14 13 1219395 0 0
+-
+172.56.22.136
+0 8 5 168421 0 0
+-
+173.252.88.86
+0 1 0 0 1 1494265464
+/
+134.174.110.8
+0 2 2 70807 0 0
+-
+174.192.32.63
+0 5 1 3068 0 0
+-
+149.202.72.198
+0 1 0 0 1 1493742557
+/
+174.192.33.82
+0 6 6 417268 0 0
+-
+198.0.187.205
+0 2 2 9636 0 0
+-
+72.209.63.2
+0 16 8 436701 0 0
+-
+199.30.24.26
+0 2 0 0 0 0
+-
+166.137.252.89
+0 25 14 470672 1 1494109515
+/mobile/images/sponsors/2017/
+199.193.142.228
+0 19 5 91345 1 1493983771
+/mobile/images/sponsors/2017/
+96.237.238.53
+0 126 2 73964 1 1494629536
+/mobile/images/sponsors/2017/Dooney 
+66.31.125.101
+0 1 1 83588 0 0
+-
+50.245.60.201
+0 1 1 0 0 0
+-
+166.137.252.63
+0 301 28 1487787 2 1493972344
+/mobile/images/sponsors/2017/Dooney 
+73.89.87.130
+0 30 7 40825 2 1494025832
+/mobile/images/sponsors/2017/
+174.192.18.219
+0 1 1 172063 0 0
+-
+107.77.161.2
+0 8 5 1534 1 1493809814
+/
+173.252.120.119
+0 1 0 0 1 1494697846
+/
+209.236.195.4
+0 3 3 185726 0 0
+-
+65.55.210.85
+0 3 0 217 0 0
+-
+107.77.106.119
+0 1 0 767 1 1493756102
+/
+162.210.196.130
+0 1 0 767 0 0
+-
+65.55.210.171
+0 10 7 174060 1 1493612210
+/images/2016/
+192.234.255.137
+0 3 2 9521 0 0
+-
+98.217.218.196
+0 8 8 3692458 1 1494081367
+/mobile/images/sponsors/2017/A1B_Abe
+108.20.74.83
+0 12 7 143529 1 1493983953
+/mobile/images/sponsors/2017/
+157.55.39.230
+0 1 1 34663 1 1493954342
+/
+108.20.184.31
+0 3 2 8168 0 0
+-
+209.6.243.22
+0 60 52 3677449 1 1494154459
+/mobile/images/sponsors/2017/Dooney 
+174.199.16.227
+0 2 1 34668 1 1494706512
+/
+12.46.106.79
+0 1 1 8378 0 0
+-
+174.192.16.180
+0 32 20 1785955 1 1494082325
+/mobile/images/sponsors/2017/BeautyPaRLR
+38.97.97.99
+0 1 1 0 0 0
+-
+107.77.161.6
+0 13 12 0 1 1493724821
+/
+157.55.39.43
+0 2 0 1534 0 0
+-
+174.192.31.119
+0 7 0 0 0 0
+-
+143.115.159.58
+0 2 2 0 0 0
+-
+52.54.222.230
+0 1 1 0 0 0
+-
+73.253.168.15
+0 23 9 479611 1 1494273932
+-
+50.176.85.156
+0 1 1 7831 0 0
+-
+38.97.101.249
+0 55 1 0 1 1494005774
+/mobile/images/sponsors/2017/A1B_Abe
+108.26.137.165
+0 3 3 256418 0 0
+-
+107.77.106.57
+0 8 3 20805 1 1494247058
+/mobile/images/sponsors/2017/
+66.249.66.42
+0 2 1 6635 1 1493721413
+/images/2016/
+98.229.67.102
+0 111 68 3055001 1 1494368855
+/mobile/images/sponsors/2017/Dooney 
+174.192.16.137
+0 1 0 0 0 0
+-
+209.160.132.42
+0 83 80 4813886 1 1493997035
+/mobile/images/sponsors/2017/BeautyPaRLR
+69.171.225.43
+0 1 0 767 0 0
+-
+96.230.87.120
+0 21 10 201581 1 1493912530
+/mobile/images/sponsors/2017/
+71.174.141.62
+0 1 1 0 0 0
+-
+73.253.195.119
+0 18 7 193749 1 1494451496
+/mobile/images/sponsors/2017/
+66.102.6.197
+0 14 10 679265 1 1493831096
+/mobile/images/favorites/m_home/800/
+66.87.125.210
+0 5 0 0 0 0
+-
+70.183.169.107
+0 45 27 1733870 2 1493890596
+/
+66.87.124.143
+0 1 1 0 0 0
+-
+71.126.224.26
+0 1 0 0 1 1493827360
+/
+98.110.153.11
+0 1 0 0 1 1494078366
+/
+174.192.10.46
+0 1 0 0 1 1494095995
+/
+174.192.26.210
+0 12 12 1180883 0 0
+-
+50.245.55.21
+0 29 29 1748059 1 1493887829
+/mobile/images/sponsors/2017/A1B_Abe
+166.137.252.80
+0 5 5 332667 0 0
+-
+138.197.7.55
+0 2 0 767 1 1493870565
+/
+199.21.99.208
+0 1 0 767 0 0
+-
+76.24.175.181
+0 1 1 0 0 0
+-
+12.181.196.65
+0 29 24 519479 0 0
+-
+66.249.66.112
+0 42 10 251565 4 1494619529
+/
+65.118.152.254
+0 1 1 0 0 0
+-
+46.118.156.191
+0 6 0 4602 1 1493838687
+-
+199.30.24.211
+0 3 0 0 0 0
+-
+174.192.3.166
+0 55 43 2803086 1 1493709383
+/mobile/images/sponsors/2017/BeautyPaRLR
+73.119.201.83
+0 2 2 114919 0 0
+-
+65.55.210.93
+0 3 0 0 0 0
+-
+174.192.22.138
+0 39 25 1933729 1 1494228958
+/mobile/images/sponsors/2017/Dooney 
+174.205.13.183
+0 3 0 0 0 0
+-
+71.230.43.135
+0 1 0 217 0 0
+-
+172.58.201.74
+0 133 116 7413868 1 1494205285
+/mobile/images/sponsors/2017/BeautyPaRLR
+50.203.72.20
+0 25 23 1835053 1 1494171518
+/mobile/images/favorites/m_home/800/
+157.55.39.208
+0 9 3 147809 4 1494641615
+/
+54.211.149.139
+0 1 1 34663 1 1493979373
+/
+71.169.187.187
+0 106 35 3404384 2 1494172606
+/mobile/images/sponsors/2017/Dooney 
+98.217.58.34
+0 1 1 0 0 0
+-
+174.192.25.95
+0 1 1 0 0 0
+-
+198.11.8.67
+0 8 0 516 1 1493732720
+-
+71.233.44.126
+0 16 7 43535 3 1494188319
+/mobile/images/favorites/m_home/800/
+66.249.64.90
+0 19 2 17575 0 0
+-
+73.69.71.157
+0 2 1 0 0 0
+-
+199.30.25.8
+0 3 0 250 1 1493999037
+-
+24.62.122.243
+0 18 5 31751 1 1493671830
+/mobile/images/sponsors/2017/
+167.230.96.8
+0 1 1 34663 1 1494325471
+/
+134.174.110.14
+0 23 23 1578594 1 1493813154
+/mobile/images/sponsors/2017/A1B_Abe
+208.163.201.101
+0 57 34 3560450 1 1494712802
+/mobile/images/sponsors/2017/
+107.77.106.56
+0 20 20 1581836 0 0
+-
+174.192.1.180
+0 183 5 91059 1 1493892279
+/mobile/images/sponsors/2017/Dooney 
+216.229.157.44
+0 14 10 475476 0 0
+-
+73.219.241.58
+0 1 0 0 0 0
+-
+173.48.30.173
+0 1 1 0 0 0
+-
+50.233.252.130
+0 1 1 0 0 0
+-
+199.30.24.25
+0 2 0 0 0 0
+-
+76.28.117.25
+0 61 49 3274649 1 1494066116
+/mobile/images/sponsors/2017/Dooney 
+24.102.197.78
+0 278 153 9496761 3 1494496825
+/mobile/images/sponsors/2017/A1B_Abe
+66.87.124.72
+0 11 4 53923 1 1494035349
+-
+138.162.0.42
+0 1 1 127053 0 0
+-
+107.77.106.127
+0 5 5 128893 1 1494075557
+/
+66.87.125.243
+0 1 1 52781 0 0
+-
+199.16.157.180
+0 2 0 1534 0 0
+-
+174.192.9.202
+0 4 4 166007 0 0
+-
+174.192.3.43
+0 1 1 0 0 0
+-
+174.63.3.82
+0 1 1 22748 0 0
+-
+66.249.66.217
+0 4 3 71141 2 1494338550
+/mobile/images/sponsors/2017/
+71.232.10.219
+0 1 1 0 0 0
+-
+167.230.96.11
+0 7 1 18909 1 1494412143
+/
+24.218.218.190
+0 3 2 606 0 0
+-
+65.96.41.108
+0 2 2 26512 0 0
+-
+50.225.236.54
+0 2 2 5126 0 0
+-
+199.30.24.159
+0 3 0 0 0 0
+-
+199.30.25.197
+0 7 0 0 0 0
+-
+54.208.88.53
+0 2 2 33575 1 1493668799
+/
+128.177.45.254
+0 3769 323 51984738 14 1494589063
+/mobile/images/sponsors/2017/
+166.137.252.35
+0 80 54 2844777 1 1493968079
+/mobile/images/sponsors/2017/
+40.77.167.74
+0 1 0 0 1 1493620036
+/
+107.77.106.78
+0 10 0 0 2 1494633837
+/
+136.167.177.17
+0 1 1 0 0 0
+-
+174.63.85.243
+0 1 1 8697 0 0
+-
+32.209.20.212
+0 3 3 236270 0 0
+-
+174.192.15.72
+0 1 1 0 0 0
+-
+199.30.25.92
+0 1 0 0 0 0
+-
+108.171.131.175
+0 4 4 20004 1 1494320666
+/mobile/images/sponsors/2017/
+65.55.212.92
+0 5 1 6783 0 0
+-
+72.74.43.75
+0 20 20 1470703 0 0
+-
+73.69.235.72
+0 1 1 0 0 0
+-
+202.46.51.131
+0 1 0 0 1 1493949350
+/
+72.209.51.120
+0 1 1 24828 0 0
+-
+180.76.15.21
+0 2 1 34668 2 1494575368
+/
+198.22.153.130
+0 27 27 1726169 0 0
+-
+85.195.107.250
+0 3 1 36197 1 1494357792
+/
+207.46.13.68
+0 6 6 181311 1 1494200349
+/
+73.218.61.169
+0 1 1 0 0 0
+-
+207.46.13.3
+0 1 0 0 1 1493754944
+/
+24.91.165.197
+0 17 3 20297 1 1493706945
+/mobile/images/sponsors/2017/
+174.192.3.252
+0 134 125 8802313 1 1493797055
+/mobile/images/sponsors/2017/Dooney 
+23.25.237.125
+0 33 4 135216 1 1493834587
+/mobile/images/sponsors/2017/Dooney 
+199.19.249.196
+0 1 1 66624 0 0
+-
+199.59.150.182
+0 1 0 767 0 0
+-
+73.60.152.235
+0 48 48 2352500 1 1494088982
+/mobile/images/sponsors/2017/
+65.96.168.21
+0 42 31 2288642 1 1493624282
+/mobile/images/sponsors/2017/Dooney 
+74.92.11.25
+0 20 5 39831 1 1493700386
+/mobile/images/sponsors/2017/
+144.76.23.238
+0 2 0 767 1 1493928045
+/
+66.249.64.158
+0 1 0 217 0 0
+-
+73.219.234.168
+0 1 0 0 1 1494021219
+/
+132.183.13.76
+0 1 1 0 0 0
+-
+66.87.125.193
+0 2 0 0 0 0
+-
+73.149.113.150
+0 11 5 24613 1 1493847625
+/mobile/images/sponsors/2017/
+107.77.224.56
+0 10 10 306106 1 1493854926
+/stats/usage_201704.html
+199.30.25.80
+0 1 0 0 0 0
+-
+103.195.183.208
+0 2 0 767 1 1494037331
+/
+40.77.167.167
+0 1 0 767 0 0
+-
+138.197.64.77
+0 12 3 21560 1 1494271721
+/mobile/images/sponsors/2017/
+107.77.106.122
+0 138 129 8917452 2 1494087828
+/mobile/images/sponsors/2017/
+108.49.68.18
+0 48 34 3274953 1 1494024588
+/mobile/images/sponsors/2017/Dooney 
+73.182.135.214
+0 1 1 114919 0 0
+-
+172.56.22.226
+0 36 32 5609811 1 1493844783
+/mobile/images/sponsors/2017/A1B_Abe
+199.30.25.69
+0 1 0 266 1 1494382025
+-
+108.7.78.134
+0 134 31 2238103 1 1494666426
+/mobile/images/sponsors/2017/Dooney 
+64.74.254.6
+0 1 1 0 0 0
+-
+205.166.145.254
+0 50 39 1820128 1 1493627821
+/mobile/images/sponsors/2017/A1B_Abe
+73.61.20.94
+0 2 2 19546 0 0
+-
+66.249.66.221
+0 10 3 83328 1 1494338550
+-
+96.92.136.33
+0 1 1 0 0 0
+-
+73.61.9.131
+0 1 1 0 0 0
+-
+199.30.25.98
+0 3 0 0 0 0
+-
+73.61.15.156
+0 6 6 2936637 0 0
+-
+198.102.213.202
+0 3 1 0 0 0
+-
+188.165.26.121
+0 1 0 0 1 1493930819
+/
+100.0.167.130
+0 1 1 0 0 0
+-
+152.133.6.2
+0 1 1 0 0 0
+-
+216.158.183.27
+0 13 13 588042 0 0
+-
+65.55.210.56
+0 6 1 6602 1 1493999037
+/images/2016/
+199.30.24.86
+0 1 0 0 0 0
+-
+73.61.177.3
+0 24 0 0 0 0
+-
+199.59.150.183
+0 1 0 767 0 0
+-
+104.129.78.234
+0 12 12 716419 0 0
+-
+155.39.88.241
+0 146 137 8651077 1 1494243541
+/mobile/images/sponsors/2017/Dooney 
+66.249.66.169
+0 5 2 26512 0 0
+-
+166.137.252.54
+0 1 0 0 0 0
+-
+209.6.133.175
+0 1 0 0 0 0
+-
+66.87.116.237
+0 1 1 22748 0 0
+-
+199.30.24.110
+0 2 0 0 0 0
+-
+24.104.58.2
+0 33 33 14247208 1 1493647625
+/mobile/images/sponsors/2017/Dooney 
+40.77.167.174
+0 1 0 767 0 0
+-
+174.199.8.159
+0 2 0 0 1 1493668339
+/
+180.76.15.148
+0 1 0 767 0 0
+-
+107.77.76.128
+0 1 1 0 0 0
+-
+73.149.117.13
+0 19 10 229804 1 1493928282
+/mobile/images/sponsors/2017/
+184.154.139.21
+0 64 30 825957 5 1494502371
+-
+8.28.16.254
+0 4 2 68238 3 1494411475
+/
+73.114.195.12
+0 40 29 1747201 1 1493761715
+/mobile/images/favorites/m_home/800/
+166.137.118.36
+0 1 1 0 0 0
+-
+108.20.205.174
+0 14 5 98343 1 1494192405
+/mobile/images/sponsors/2017/
+73.38.58.159
+0 2 2 23654 1 1494008322
+/mobile/images/sponsors/2017/Dooney 
+174.192.23.205
+0 23 0 0 0 0
+-
+209.99.213.103
+0 32 20 1372006 1 1493737314
+/mobile/images/sponsors/2017/Dooney 
+76.119.235.245
+0 3 1 22748 0 0
+-
+107.77.161.10
+0 2 2 0 0 0
+-
+107.77.106.120
+0 1 0 0 0 0
+-
+73.61.13.243
+0 41 0 0 1 1494020044
+/mobile/images/sponsors/2017/Dooney 
+216.252.126.73
+0 1 0 767 0 0
+-
+199.30.25.33
+0 2 1 6385 1 1494210909
+/images/2016/
+108.49.72.4
+0 1 1 0 0 0
+-
+141.8.143.200
+0 1 0 767 0 0
+-
+107.21.1.8
+0 7 6 34663 2 1493926766
+/
+66.87.124.7
+0 1 1 0 0 0
+-
+66.102.6.199
+0 14 12 776579 1 1493831098
+/mobile/images/sponsors/2017/Dooney 
+173.76.187.132
+0 4 4 252168 0 0
+-
+199.30.24.166
+0 5 1 11971 1 1494210902
+/mobile/images/sponsors/2017/
+199.30.25.111
+0 1 0 0 0 0
+-
+76.118.25.40
+0 109 98 5830668 1 1493965517
+/mobile/images/sponsors/2017/BeautyPaRLR
+23.25.109.169
+0 60 5 54447 1 1493906337
+/mobile/images/sponsors/2017/A1B_Abe
+73.61.23.12
+0 6 3 311161 0 0
+-
+69.147.191.11
+0 3 3 4864 0 0
+-
+173.166.127.57
+0 31 29 1932144 1 1493652119
+/
+209.6.62.65
+0 3 1 0 1 1494172924
+/
+24.63.57.102
+0 54 41 3561712 1 1494486216
+/mobile/images/sponsors/2017/Dooney 
+107.77.106.121
+0 45 37 3266889 1 1494356880
+/mobile/images/sponsors/2017/Dooney 
+146.115.188.145
+0 2 1 0 1 1493841176
+/
+166.170.0.121
+0 1 1 34657 1 1493911635
+/
+160.79.139.10
+0 131 124 8398145 1 1493709108
+/mobile/images/sponsors/2017/Dooney 
+199.30.24.79
+0 3 0 0 0 0
+-
+73.114.193.184
+0 4 4 54667 1 1494273105
+/mobile/images/sponsors/2017/
+73.61.16.22
+0 21 21 2146261 0 0
+-
+66.249.64.162
+0 2 2 55587 0 0
+-
+24.62.66.188
+0 2 2 145143 0 0
+-
+199.30.24.76
+0 4 0 0 0 0
+-
+73.249.156.65
+0 11 10 886673 1 1493851465
+/
+50.203.224.90
+0 1 0 0 0 0
+-
+73.61.19.176
+0 11 2 83588 0 0
+-
+174.192.10.190
+0 19 7 170171 1 1493911132
+/mobile/images/sponsors/2017/
+73.195.151.58
+0 2 1 40034 0 0
+-
+192.223.243.6
+0 1 1 0 0 0
+-
+199.30.25.56
+0 2 1 1648 1 1494382023
+/mobile/images/favorites/m_home/800/
+98.217.117.71
+0 3 2 286982 1 1493665540
+/mobile/images/sponsors/2017/Dooney 
+199.30.24.45
+0 2 0 0 0 0
+-
+73.232.49.144
+0 1 0 217 0 0
+-
+66.30.0.104
+0 1 1 0 0 0
+-
+174.192.5.60
+0 1 1 0 0 0
+-
+70.198.208.91
+0 8 3 20550 1 1493995693
+/images/2016/
+50.245.57.249
+0 10 5 35293 1 1494018288
+/mobile/images/sponsors/2017/
+138.197.34.177
+0 1 1 34663 1 1494249364
+/
+107.77.76.36
+0 17 3 20285 1 1493813811
+/mobile/images/sponsors/2017/
+107.77.106.50
+0 6 3 20805 1 1494072588
+/mobile/images/sponsors/2017/
+40.77.167.79
+0 2 0 0 1 1493998975
+/
+64.222.180.134
+0 2 2 22748 0 0
+-
+76.119.112.243
+0 17 16 1114128 0 0
+-
+107.77.68.85
+0 8 0 0 1 1494444583
+/
+132.183.222.160
+0 2 1 0 0 0
+-
+66.249.83.86
+0 1 1 0 0 0
+-
+107.77.70.113
+0 1 1 83588 0 0
+-
+174.192.5.250
+0 23 7 314709 1 1494026124
+/
+174.199.20.168
+0 1 1 27448 0 0
+-
+158.121.148.94
+0 1 1 0 0 0
+-
+12.227.206.226
+0 8 4 25669 1 1494106748
+/mobile/images/sponsors/2017/
+75.130.225.171
+0 6 6 592792 1 1494073721
+/mobile/images/sponsors/2017/Dooney 
+108.7.208.245
+0 55 38 3062072 2 1494018961
+/mobile/images/sponsors/2017/
+96.92.140.157
+0 35 21 1482879 1 1493894103
+/images/2016/
+107.77.106.77
+0 2 1 0 0 0
+-
+199.30.24.4
+0 1 0 0 0 0
+-
+199.36.204.248
+0 6 6 267999 1 1493723240
+/
+24.218.46.228
+0 95 0 0 1 1493666883
+/mobile/images/sponsors/2017/Dooney 
+199.30.24.116
+0 1 0 0 1 1494382005
+/
+68.110.206.97
+0 148 145 9193526 1 1494078654
+/mobile/images/sponsors/2017/Dooney 
+174.255.205.78
+0 2 0 217 1 1494312151
+/
+107.77.76.116
+0 1 1 0 0 0
+-
+71.232.17.159
+0 19 7 140899 1 1493762332
+/mobile/images/sponsors/2017/Dooney 
+107.3.87.127
+0 2 2 227573 0 0
+-
+71.234.44.96
+0 2 1 0 0 0
+-
+73.159.177.252
+0 2 2 11715 0 0
+-
+66.249.66.45
+0 1 0 0 1 1493721405
+/
+50.245.61.114
+0 11 2 9636 1 1493988013
+/
+208.78.142.232
+0 3 3 286982 0 0
+-
+108.49.134.11
+0 1 1 83588 0 0
+-
+208.80.192.33
+0 2 1 6385 2 1494499415
+/
+184.154.139.18
+0 64 47 1332081 6 1494605745
+-
+107.77.76.110
+0 780 100 15145956 4 1493840838
+/mobile/images/sponsors/2017/
+100.0.7.126
+0 17 17 908597 0 0
+-
+199.30.24.65
+0 4 0 217 0 0
+-
+184.154.139.20
+0 17 0 6136 4 1494416874
+-
+199.30.24.250
+0 1 0 0 1 1493757992
+/
+73.186.209.227
+0 16 3 110136 1 1494084490
+-
+50.252.234.2
+0 26 26 1873440 0 0
+-
+173.20.223.75
+0 1 0 217 0 0
+-
+71.174.27.196
+0 8 1 21903 0 0
+-
+54.201.251.45
+0 1 0 0 1 1493826330
+/
+34.207.110.224
+0 1 0 767 0 0
+-
+66.249.66.95
+0 5 0 1534 3 1493990920
+/
+66.249.66.97
+0 1 0 767 0 0
+-
+73.126.0.184
+0 5 5 5588 0 0
+-
+73.219.242.118
+0 25 25 2156374 0 0
+-
+75.67.138.151
+0 24 24 2271246 0 0
+-
+148.62.14.156
+0 1 1 33575 1 1493739508
+/
+174.192.46.89
+0 1 1 0 0 0
+-
+207.46.13.22
+0 4 1 1921 1 1494625044
+/mobile/images/favorites/m_home/800/
+66.87.116.222
+0 4 2 116453 0 0
+-
+199.30.24.52
+0 4 0 0 0 0
+-
+206.34.122.70
+0 2 1 0 0 0
+-
+73.114.240.251
+0 7 1 0 1 1493653590
+/
+73.119.128.101
+0 1 1 0 0 0
+-
+40.77.167.165
+0 1 0 767 0 0
+-
+66.249.66.133
+0 14 6 133415 6 1494653364
+/
+66.249.64.94
+0 27 3 97836 0 0
+-
+107.77.70.81
+0 18 4 25414 1 1493973759
+/mobile/images/sponsors/2017/
+108.20.18.234
+0 23 23 1338017 1 1493796430
+/mobile/images/sponsors/2017/BeautyPaRLR
+199.30.25.73
+0 2 0 0 0 0
+-
+207.180.170.130
+0 85 5 90582 1 1493642246
+/mobile/images/sponsors/2017/BeautyPaRLR
+174.199.26.35
+0 44 38 1911487 1 1493809139
+/mobile/images/sponsors/2017/A1B_Abe
+24.177.59.253
+0 143 131 9021226 1 1493668850
+/mobile/images/sponsors/2017/Dooney 
+66.249.83.88
+0 4 3 0 0 0
+-
+73.61.13.62
+0 2 2 286982 0 0
+-
+50.177.172.45
+0 1 1 0 0 0
+-
+98.216.96.191
+0 1 1 0 0 0
+-
+66.249.83.212
+0 14 8 871725 1 1493776423
+/mobile/images/sponsors/2017/A1B_Abe
+202.46.52.78
+0 1 1 33575 1 1493843374
+/
+46.105.100.149
+0 1 1 34663 1 1494357788
+/
+38.98.70.158
+0 1 1 0 0 0
+-
+174.192.11.191
+0 10 9 480542 0 0
+-
+65.55.210.120
+0 1 0 0 0 0
+-
+40.77.167.169
+0 1 0 767 0 0
+-
+209.6.75.12
+0 2 2 286982 0 0
+-
+131.253.24.154
+0 6 0 0 1 1494332700
+/
+174.199.4.32
+0 14 1 22704 1 1494228216
+-
+73.61.22.163
+0 1 1 10920 0 0
+-
+73.123.104.214
+0 3 0 2301 0 0
+-
+76.127.165.23
+0 22 7 397006 1 1494279548
+/mobile/images/sponsors/2017/
+166.137.252.65
+0 10 10 858064 1 1494074548
+/mobile/images/sponsors/2017/
+50.169.125.139
+0 36 18 481233 1 1493713365
+-
+184.154.139.17
+0 77 61 1586157 6 1494693006
+-
+107.77.161.5
+0 95 7 21819 1 1493808119
+/mobile/images/sponsors/2017/BeautyPaRLR
+64.192.133.129
+0 3 2 0 0 0
+-
+174.192.44.170
+0 21 21 1603739 0 0
+-
+174.192.14.227
+0 1 1 32002 0 0
+-
+206.35.36.2
+0 2 2 9636 0 0
+-
+192.241.193.129
+0 123 116 788285 1 1493755187
+/mobile/images/sponsors/2017/Dooney 
+65.55.210.139
+0 1 0 0 0 0
+-
+74.104.142.64
+0 1 1 0 0 0
+-
+199.30.24.9
+0 2 0 273 1 1493999028
+-
+66.87.117.143
+0 25 25 1709208 0 0
+-
+174.199.20.203
+0 3 3 432125 0 0
+-
+207.46.13.100
+0 4 4 71265 0 0
+-
+174.62.171.52
+0 3 2 1648 1 1494075492
+/mobile/images/favorites/m_home/800/
+66.249.64.15
+0 1 1 34663 1 1494495183
+/
+216.15.119.234
+0 4 0 651 1 1494362692
+/
+174.192.27.169
+0 30 15 1003568 2 1494062108
+/mobile/images/sponsors/2017/
+66.249.64.9
+0 5 0 767 0 0
+-
+166.137.252.113
+0 1 0 0 1 1493685278
+/
+199.30.24.124
+0 3 0 0 0 0
+-
+40.77.167.33
+0 1 0 767 0 0
+-
+40.77.167.66
+0 7 0 3835 0 0
+-
+73.4.127.129
+0 7 7 473060 0 0
+-
+77.88.47.11
+0 2 2 0 0 0
+-
+157.55.39.61
+0 12 8 260533 1 1494477898
+/
+75.150.118.237
+0 1 1 0 0 0
+-
+107.77.161.7
+0 13 12 0 1 1494518008
+/
+66.249.66.245
+0 9 7 72838 1 1494679533
+/mobile/images/sponsors/2017/
+199.30.25.89
+0 4 1 6635 1 1494382030
+/images/2016/
+174.62.155.140
+0 1 1 0 0 0
+-
+144.76.23.40
+0 2 0 767 1 1493794364
+/
+73.227.25.207
+0 2 2 255651 0 0
+-
+38.88.208.226
+0 15 3 2074 0 0
+-
+128.76.237.18
+0 69 57 3273802 1 1493608644
+/mobile/images/sponsors/2017/BeautyPaRLR
+50.74.38.178
+0 29 26 2522163 2 1493720560
+/
+65.55.210.76
+0 3 0 0 0 0
+-
+157.55.39.106
+0 2 0 0 0 0
+-
+96.230.209.116
+0 2 2 9636 0 0
+-
+207.46.13.43
+0 5 5 104365 0 0
+-
+72.93.31.229
+0 10 0 0 0 0
+-
+172.58.217.67
+0 1 1 0 0 0
+-
+66.249.83.210
+0 12 10 289224 1 1493776422
+/mobile/images/sponsors/2017/
+66.249.66.166
+0 2 0 767 0 0
+-
+24.218.109.69
+0 3 3 158676 0 0
+-
+66.102.6.195
+0 16 13 1401888 1 1493831098
+/mobile/images/sponsors/2017/BeautyPaRLR
+77.88.47.64
+0 1 0 767 0 0
+-
+73.123.212.146
+0 1 0 0 0 0
+-
+174.199.1.38
+0 17 5 33285 1 1493672955
+/mobile/images/sponsors/2017/
+98.216.244.230
+0 9 9 675189 1 1494058234
+/mobile/images/sponsors/2017/
+199.198.213.195
+0 2 1 0 0 0
+-
+50.201.110.146
+0 21 21 1547678 1 1493901651
+/mobile/images/sponsors/2017/A1B_Abe
+73.143.119.26
+0 14 4 20285 1 1493828504
+/mobile/images/sponsors/2017/
+108.7.231.195
+0 55 50 2661488 1 1494196962
+/mobile/images/sponsors/2017/BeautyPaRLR
+199.30.25.67
+0 2 2 13364 1 1493999030
+/mobile/images/sponsors/2017/
+66.249.66.48
+0 2 0 1534 0 0
+-
+107.77.94.92
+0 1 1 145143 0 0
+-
+107.77.76.88
+0 262 256 14049507 2 1493894567
+/mobile/images/sponsors/2017/Dooney 
+66.249.79.141
+0 2 1 35430 1 1494282896
+/
+63.163.55.1
+0 32 31 14713677 1 1493893537
+/mobile/images/sponsors/2017/Dooney 
+76.28.117.218
+0 12 0 0 0 0
+-
+208.54.36.171
+0 101 1 34663 1 1494368156
+/mobile/images/sponsors/2017/BeautyPaRLR
+66.87.125.188
+0 23 23 2271246 0 0
+-
+73.17.54.41
+0 150 11 4217330 1 1494068680
+/mobile/images/sponsors/2017/Dooney 
+173.252.90.244
+0 1 0 217 0 0
+-
+74.104.154.180
+0 62 31 2257034 1 1494265466
+/mobile/images/sponsors/2017/
+174.192.24.47
+0 6 6 215330 0 0
+-
+98.216.134.165
+0 8 3 20550 1 1493999680
+/mobile/images/sponsors/2017/
+40.77.179.46
+0 18 15 400840 1 1493715547
+/images/2016/
+66.31.62.191
+0 1 1 0 0 0
+-
+73.173.217.173
+0 131 126 8544688 1 1494698637
+/mobile/images/sponsors/2017/Dooney 
+192.223.243.5
+0 1 1 0 0 0
+-
+152.130.6.2
+0 1 1 0 0 0
+-
+73.114.45.25
+0 3 3 172063 0 0
+-
+173.252.90.239
+0 1 0 217 0 0
+-
+174.192.18.85
+0 1 0 0 0 0
+-
+209.160.134.110
+0 2 2 8566 0 0
+-
+150.70.188.179
+0 1 1 34663 1 1494202211
+/
+66.220.156.148
+0 1 0 0 0 0
+-
+198.140.202.134
+0 45 33 3208986 1 1493793250
+/mobile/images/sponsors/2017/Dooney 
+73.119.50.87
+0 24 10 627075 1 1493933404
+/mobile/images/sponsors/2017/Dooney 
+136.167.36.38
+0 117 100 5895061 1 1493840637
+/mobile/images/sponsors/2017/BeautyPaRLR
+54.158.145.102
+0 2 0 767 1 1494637536
+/
+199.30.25.104
+0 1 0 0 0 0
+-
+205.135.168.10
+0 7 7 380159 1 1494432805
+/
+73.142.192.176
+0 7 3 142982 1 1493842340
+/mobile/images/sponsors/2017/Dooney 
+71.232.96.168
+0 782 554 17760898 48 1494701463
+/
+174.192.25.183
+0 2 1 0 0 0
+-
+65.55.210.153
+0 2 0 0 0 0
+-
+157.55.39.108
+0 2 0 0 1 1493929246
+/
+209.6.207.203
+0 9 0 0 1 1494084279
+/
+73.219.239.111
+0 18 4 21309 1 1493642529
+/mobile/images/sponsors/2017/
+131.253.25.227
+0 136 134 9023824 1 1494648167
+/mobile/images/sponsors/2017/Dooney 
+96.115.70.44
+0 1 0 0 0 0
+-
+72.22.165.250
+0 1 1 0 0 0
+-
+73.47.196.127
+0 45 23 978538 2 1494511883
+-
+66.220.156.151
+0 1 1 32002 0 0
+-
+65.55.210.87
+0 2 0 0 0 0
+-
+38.140.12.26
+0 148 135 8806026 1 1494412251
+/mobile/images/sponsors/2017/BeautyPaRLR
+157.55.39.12
+0 1 0 767 0 0
+-
+174.192.6.114
+0 16 3 20805 1 1494089556
+/images/2016/
+46.165.197.141
+0 1 0 767 0 0
+-
+96.233.101.33
+0 1 1 0 0 0
+-
+155.201.34.12
+0 2 2 114919 0 0
+-
+131.253.25.193
+0 8 4 161585 1 1493620053
+/images/2016/
+208.54.36.248
+0 5 2 227573 1 1493756827
+/
+73.253.172.9
+0 1 0 0 1 1493945921
+/
+173.252.91.100
+0 1 1 34663 1 1494229448
+/
+65.55.210.32
+0 2 0 0 0 0
+-
+107.77.106.47
+0 11 3 20550 1 1493944771
+/mobile/images/sponsors/2017/
+199.30.24.253
+0 5 0 0 0 0
+-
+208.34.243.194
+0 39 37 19229688 1 1493742311
+/mobile/images/sponsors/2017/Dooney 
+54.242.133.65
+0 17 15 393126 1 1493982160
+/mobile/images/sponsors/2017/
+173.225.63.130
+0 29 29 3124641 1 1493900686
+/mobile/images/sponsors/2017/Dooney 
+199.30.25.81
+0 1 0 0 0 0
+-
+107.77.76.86
+0 1 1 0 0 0
+-
+107.77.76.125
+0 1034 191 14648102 3 1493910528
+/mobile/images/sponsors/2017/A1B_Abe
+174.192.30.87
+0 1 1 0 0 0
+-
+199.30.25.131
+0 10 1 11971 1 1494382025
+/mobile/images/sponsors/2017/
+174.192.13.172
+0 30 2 90371 1 1493999673
+/mobile/images/sponsors/2017/Dooney 
+76.19.115.36
+0 1 1 0 0 0
+-
+173.76.206.99
+0 8 1 0 0 0
+-
+131.253.26.233
+0 3 0 0 0 0
+-
+157.55.39.9
+0 10 5 538220 1 1494625055
+/mobile/images/sponsors/2017/
+107.77.76.20
+0 10 4 24706 1 1494003195
+/mobile/images/sponsors/2017/
+107.77.70.55
+0 145 101 6573779 1 1494533291
+/mobile/images/sponsors/2017/BeautyPaRLR
+65.55.211.250
+0 4 4 169357 0 0
+-
+208.54.36.177
+0 1 1 0 0 0
+-
+71.232.172.131
+0 58 30 2294117 2 1494174586
+/mobile/images/sponsors/2017/
+157.55.39.49
+0 3 3 70346 2 1493676999
+/
+50.207.137.226
+0 86 77 5111388 1 1493820129
+/mobile/images/sponsors/2017/BeautyPaRLR
+108.7.69.140
+0 26 26 1079024 1 1493785235
+/mobile/images/sponsors/2017/BeautyPaRLR
+98.200.12.160
+0 2 1 3196 0 0
+-
+172.56.19.88
+0 1 1 0 0 0
+-
+199.30.24.40
+0 2 1 1898 1 1494210908
+-
+98.118.35.74
+0 14 14 1194219 0 0
+-
+24.2.205.192
+0 2 2 9636 0 0
+-
+207.180.168.194
+0 1 0 0 0 0
+-
+146.115.131.223
+0 9 2 18443 0 0
+-
+107.77.106.61
+0 5 3 43277 1 1493764272
+/
+172.58.185.158
+0 40 33 2697747 1 1493791780
+/mobile/images/sponsors/2017/
+107.77.70.116
+0 11 11 886673 0 0
+-
+209.133.111.215
+0 2 0 1534 0 0
+-
+40.77.167.52
+0 9 1 18495 0 0
+-
+73.238.216.10
+0 1 0 0 0 0
+-
+74.94.189.5
+0 46 36 3165349 1 1493890898
+/mobile/images/sponsors/2017/
+209.6.60.14
+0 121 106 6831498 2 1494159133
+/mobile/images/sponsors/2017/BeautyPaRLR
+66.87.124.220
+0 8 1 8697 1 1493819162
+/
+66.249.83.87
+0 2 1 0 0 0
+-
+107.77.70.122
+0 18 3 20297 1 1493722823
+/mobile/images/sponsors/2017/
+66.249.66.225
+0 6 1 13310 1 1493965169
+/
+170.223.207.15
+0 15 1 801 1 1493883929
+-
+173.76.55.235
+0 13 1 22748 2 1493999257
+/
+157.55.39.75
+0 3 3 210934 0 0
+-
+73.61.10.47
+0 3 2 46357 0 0
+-
+98.229.31.244
+0 2 1 0 0 0
+-
+65.55.210.57
+0 5 0 0 0 0
+-
+98.229.144.158
+0 11 5 123930 0 0
+-
+198.0.139.22
+0 1 1 33575 1 1493804545
+/
+213.186.1.201
+0 1 0 767 0 0
+-
+199.16.157.182
+0 1 0 227 1 1493628875
+-
+146.115.133.72
+0 7 3 20805 1 1494077845
+/mobile/images/sponsors/2017/
+139.68.134.1
+0 1 1 0 0 0
+-
+18.189.21.75
+0 1 1 0 0 0
+-
+66.249.66.137
+0 9 5 188845 2 1494551011
+/
+207.172.210.99
+0 7 4 106735 0 0
+-
+96.237.190.179
+0 5 5 217748 0 0
+-
+69.32.167.43
+0 13 13 1191865 0 0
+-
+24.61.9.231
+0 283 212 13483226 2 1493813315
+/mobile/images/sponsors/2017/Dooney 
+64.30.73.224
+0 17 8 405070 1 1494201189
+/
+23.79.228.14
+0 1 1 0 0 0
+-
+65.55.210.110
+0 1 0 266 1 1493999030
+-
+76.24.3.118
+0 133 4 20805 1 1494163503
+/mobile/images/sponsors/2017/Dooney 
+73.234.124.203
+0 11 10 701573 0 0
+-
+54.176.219.10
+0 2 0 767 1 1494534776
+/
+199.30.24.111
+0 1 0 0 0 0
+-
+138.197.111.116
+0 2 0 767 1 1493866815
+/
+174.204.18.38
+0 21 3 20805 1 1494138856
+/mobile/images/sponsors/2017/
+38.122.127.75
+0 2 1 0 0 0
+-
+131.253.26.251
+0 4 0 0 0 0
+-
+65.55.210.106
+0 5 0 0 1 1494210922
+/mobile/images/sponsors/2017/A1B_Abe
+52.73.31.6
+0 1 0 767 0 0
+-
+199.30.25.145
+0 3 0 0 0 0
+-
+98.216.189.232
+0 1 1 0 0 0
+-
+205.135.136.10
+0 3 3 40034 0 0
+-
+173.76.229.168
+0 22 8 116944 1 1494049079
+/images/2016/
+107.77.226.23
+0 1 0 240 1 1494183178
+/stats/
+107.72.164.65
+0 24 11 860246 1 1493983456
+/mobile/images/sponsors/2017/
+174.192.10.86
+0 4 3 60446 0 0
+-
+65.132.44.131
+0 28 21 1340079 1 1493825297
+/mobile/images/sponsors/2017/
+174.192.5.86
+0 2 1 1648 1 1494090321
+/mobile/images/favorites/m_home/800/
+63.139.21.194
+0 23 4 20297 1 1493741964
+/mobile/images/sponsors/2017/
+90.31.232.134
+0 2 0 767 1 1494004096
+/
+66.249.64.154
+0 4 1 17232 1 1494506078
+/
+107.77.106.90
+0 1 1 0 0 0
+-
+192.19.218.250
+0 2 0 434 0 0
+-
+98.217.146.9
+0 5 0 0 1 1493666606
+/
+76.119.72.77
+0 6 0 0 0 0
+-
+157.55.39.232
+0 3 3 71747 0 0
+-
+24.218.187.158
+0 2 1 1648 1 1493855241
+/mobile/images/favorites/m_home/800/
+50.177.152.248
+0 2 0 0 0 0
+-
+73.17.84.44
+0 14 12 0 2 1493639306
+/
+107.77.76.61
+0 75 43 2053058 1 1494092242
+/mobile/images/sponsors/2017/BeautyPaRLR
+100.0.29.91
+0 3 3 26512 0 0
+-
+73.119.126.206
+0 40 26 2172513 1 1494007126
+/mobile/images/sponsors/2017/
+157.55.39.137
+0 4 3 153512 0 0
+-
+65.96.147.59
+0 12 11 5387078 0 0
+-
+158.228.1.16
+0 71 1 0 1 1493906558
+/mobile/images/sponsors/2017/BeautyPaRLR
+24.62.10.9
+0 72 59 3041863 1 1494062344
+/mobile/images/sponsors/2017/BeautyPaRLR
+174.192.21.19
+0 1 0 0 0 0
+-
+8.2.74.10
+0 12 12 1047332 0 0
+-
+66.31.47.144
+0 20 5 192613 1 1493980771
+/mobile/images/sponsors/2017/
+74.118.25.58
+0 6 6 262545 0 0
+-
+199.30.25.3
+0 2 0 0 0 0
+-
+65.96.135.165
+0 89 77 4465681 1 1494056584
+/mobile/images/sponsors/2017/BeautyPaRLR
+199.30.24.171
+0 1 0 0 0 0
+-
+174.199.17.42
+0 1 0 0 1 1494363791
+/
+73.4.224.19
+0 1427 604 47595558 7 1494541485
+/mobile/images/sponsors/2017/Dooney 
+213.254.241.6
+0 1 0 0 1 1493723934
+/
+146.197.250.250
+0 1 1 0 0 0
+-
+216.200.240.210
+0 20 4 20297 1 1493725648
+/mobile/images/sponsors/2017/
+98.217.117.179
+0 5 0 0 0 0
+-
+139.59.149.99
+0 1 0 0 1 1493651742
+/
+73.16.169.58
+0 1 1 0 0 0
+-
+174.192.25.160
+0 1 1 0 0 0
+-
+193.109.199.202
+0 1 1 23654 1 1493926831
+/mobile/images/sponsors/2017/Dooney 
+71.232.24.144
+0 2 1 172063 0 0
+-
+75.147.9.33
+0 16 4 41098 1 1493727544
+/mobile/images/sponsors/2017/
+199.30.24.162
+0 5 0 434 0 0
+-
+98.217.234.87
+0 19 18 1317708 0 0
+-
+107.77.76.53
+0 19 5 39843 1 1493794739
+/mobile/images/sponsors/2017/
+73.218.234.116
+0 1 1 66624 0 0
+-
+66.249.66.162
+0 1 0 0 1 1493785182
+/
+146.115.41.185
+0 17 1 30485 0 0
+-
+71.232.44.49
+0 1 1 0 0 0
+-
+199.30.25.50
+0 1 0 0 0 0
+-
+40.77.167.175
+0 1 0 767 0 0
+-
+66.249.83.208
+0 12 7 412152 1 1493776421
+-
+66.87.117.210
+0 2 1 23654 1 1493764604
+/mobile/images/sponsors/2017/Dooney 
+73.149.114.60
+0 2 2 26512 0 0
+-
+98.118.127.167
+0 1 1 0 0 0
+-
+199.30.24.104
+0 3 0 707 1 1494210900
+-
+96.89.200.125
+0 1 1 0 0 0
+-
+76.118.250.105
+0 1 1 0 0 0
+-
+174.192.22.227
+0 73 52 4378577 1 1494527944
+/mobile/images/sponsors/2017/
+100.10.57.63
+0 18 5 339278 1 1493998201
+/mobile/images/sponsors/2017/
+107.77.76.16
+0 13 13 1171785 0 0
+-
+107.77.161.12
+0 7 6 0 1 1494071452
+/
+66.87.117.85
+0 7 2 149829 1 1493817757
+-
+12.46.106.81
+0 1 1 0 0 0
+-
+69.46.227.226
+0 5 4 6685 0 0
+-
+199.30.24.138
+0 7 1 79531 1 1494210902
+-
+166.137.252.18
+0 25 11 1080720 1 1493601827
+/mobile/images/sponsors/2017/
+107.77.76.96
+0 65 0 0 1 1494000787
+/mobile/images/sponsors/2017/Dooney 
+199.16.157.181
+0 1 0 767 0 0
+-
+176.156.90.12
+0 1 0 0 0 0
+-
+40.77.167.4
+0 1 1 33575 1 1493711853
+/
+64.196.253.162
+0 2 2 70807 0 0
+-
+67.208.166.122
+0 1 1 0 0 0
+-
+107.77.76.127
+0 17 5 34538 1 1494072201
+/images/2016/
+172.56.23.165
+0 20 6 192348 1 1493724582
+/images/2016/
+73.253.183.198
+0 1 1 11660 0 0
+-
+157.55.39.125
+0 1 1 12483 0 0
+-
+174.192.1.1
+0 2 0 217 1 1494347106
+/
+174.192.11.107
+0 103 92 9283539 1 1494692291
+/mobile/images/sponsors/2017/BeautyPaRLR
+208.87.63.132
+0 12 8 407126 1 1493837023
+/
+107.77.70.107
+0 1 1 21903 0 0
+-
+212.21.66.6
+0 1 0 767 1 1494121474
+-
+192.58.132.50
+0 6 3 21080 1 1493811174
+/
+68.109.112.106
+0 9 3 20285 1 1493762364
+/mobile/images/sponsors/2017/
+73.238.19.237
+0 3 1 1534 0 0
+-
+107.77.85.54
+0 4 0 0 0 0
+-
+66.249.66.99
+0 2 1 33575 2 1493781172
+/
+96.47.240.10
+0 80 62 3642854 1 1493718600
+/mobile/images/sponsors/2017/BeautyPaRLR
+74.104.148.155
+0 1 1 33575 1 1493658196
+/
+50.234.76.254
+0 1 1 0 0 0
+-
+65.55.210.92
+0 1 0 0 1 1493757988
+/
+137.254.7.171
+0 1 1 0 0 0
+-
+184.154.139.19
+0 39 17 423960 4 1494675370
+-
+146.115.130.30
+0 19 6 24718 1 1494010488
+/mobile/images/sponsors/2017/
+199.30.24.12
+0 2 0 0 0 0
+-
+138.197.7.56
+0 12 4 56223 1 1494009781
+/mobile/images/sponsors/2017/
+107.77.76.24
+0 1 0 0 1 1494019018
+/
+174.192.34.160
+0 3 3 145496 0 0
+-
+73.4.142.141
+0 1 1 0 0 0
+-
+199.167.124.185
+0 1 1 0 0 0
+-
+65.55.210.23
+0 3 0 0 0 0
+-
+199.30.25.70
+0 2 0 0 0 0
+-
+107.77.106.52
+0 147 144 9078607 1 1494087431
+/mobile/images/sponsors/2017/Dooney 
+75.68.77.209
+0 2 2 41446 1 1494185426
+/
+199.30.25.83
+0 6 0 217 0 0
+-
+174.192.23.132
+0 7 7 894622 0 0
+-
+65.96.158.162
+0 136 8 35364 1 1493746729
+/mobile/images/sponsors/2017/A1B_Abe
+157.55.39.152
+0 2 0 0 2 1494381994
+/
+174.199.36.231
+0 13 3 19749 1 1493989380
+/mobile/images/favorites/m_home/800/
+75.147.33.98
+0 1 1 22748 0 0
+-
+76.19.211.0
+0 10 5 58863 1 1494675426
+/
+98.189.137.74
+0 9 5 91345 1 1493988238
+/images/2016/
+172.58.217.252
+0 1 1 0 0 0
+-
+138.197.104.23
+0 2 0 767 1 1494408678
+/
+199.30.24.62
+0 1 0 217 0 0
+-
+157.55.39.138
+0 2 2 14801 0 0
+-
+151.80.39.190
+0 1 0 767 0 0
+-
+24.147.208.231
+0 2 1 0 0 0
+-
+199.59.150.180
+0 1 0 227 1 1493628875
+-
+174.192.16.81
+0 145 14 64372 1 1493891507
+/mobile/images/sponsors/2017/Dooney 
+209.6.37.88
+0 2 1 0 0 0
+-
+157.55.39.41
+0 7 7 103579 0 0
+-
+71.232.112.114
+0 15 15 1194825 0 0
+-
+199.91.135.163
+0 1 0 0 1 1493740500
+/
+138.162.0.43
+0 4 2 20804 1 1494396436
+/
+134.42.112.2
+0 37 24 1222494 1 1493887624
+/images/2016/
+24.91.128.87
+0 11 0 0 0 0
+-
+157.55.39.139
+0 3 3 67053 0 0
+-
+75.68.253.114
+0 4 4 53324 1 1493879125
+/mobile/images/sponsors/2017/
+174.192.6.109
+0 5 1 3068 0 0
+-
+199.58.86.209
+0 1 0 767 0 0
+-
+202.46.48.137
+0 1 0 0 1 1494332780
+/
+66.249.66.108
+0 87 27 509078 2 1494387669
+/
+157.55.39.24
+0 1 0 767 0 0
+-
+181.118.254.149
+0 18 3 20805 1 1494427498
+/images/2016/
+65.55.218.35
+0 8 4 93177 1 1494246623
+/
+172.58.217.20
+0 2 2 66624 0 0
+-
+129.83.31.3
+0 2 2 70807 0 0
+-
+73.167.231.229
+0 5 1 0 0 0
+-
+108.224.186.217
+0 1 1 33575 1 1493753224
+/
+107.77.70.34
+0 19 5 85186 1 1494080104
+/mobile/images/sponsors/2017/
+73.4.146.249
+0 1 0 0 1 1494621123
+/
+157.55.39.5
+0 2 0 1534 0 0
+-
+73.142.193.106
+0 12 12 351216 0 0
+-
+73.234.24.14
+0 14 7 129897 1 1493927384
+/mobile/images/sponsors/2017/
+199.30.24.164
+0 1 0 0 0 0
+-
+174.199.18.81
+0 4 3 90708 0 0
+-
+138.197.13.137
+0 2 0 767 1 1494415010
+/
+66.249.64.98
+0 24 4 80797 4 1494489782
+/
+174.192.1.83
+0 1 1 0 0 0
+-
+173.69.9.44
+0 11 9 422913 1 1494063605
+/mobile/images/sponsors/2017/A1B_Abe
+166.137.252.49
+0 2 2 324839 0 0
+-
+66.249.66.141
+0 7 0 2066 4 1494597933
+/
+66.30.115.154
+0 1 1 0 0 0
+-
+65.55.210.71
+0 3 0 0 0 0
+-
+138.197.111.234
+0 2 0 767 1 1493721393
+/
+174.192.19.21
+0 6 0 0 0 0
+-
+159.203.164.194
+0 12 4 32453 1 1494416683
+/
+66.220.156.144
+0 2 1 34663 1 1494229448
+/
+68.180.229.175
+0 1 0 767 0 0
+-
+180.76.15.15
+0 1 0 0 1 1494181132
+/
+157.55.39.156
+0 1 0 767 0 0
+-
+38.97.76.226
+0 1 1 0 0 0
+-
+108.49.242.8
+0 1 1 0 0 0
+-
+166.137.252.78
+0 7 3 14728 0 0
+-
+54.173.35.129
+0 1 0 767 0 0
+-
+132.183.13.2
+0 2 1 0 0 0
+-
+74.92.46.10
+0 1 1 0 0 0
+-
+138.197.7.130
+0 12 3 21560 1 1494136239
+/mobile/images/favorites/m_home/800/
+73.238.158.187
+0 10 0 7670 1 1493625734
+-
+94.23.171.176
+0 1 1 34668 1 1494683787
+/
+66.87.124.164
+0 3 2 64393 0 0
+-
+65.196.147.17
+0 1 1 0 0 0
+-
+12.46.106.77
+0 8 4 254167 0 0
+-
+199.16.157.183
+0 2 0 1534 0 0
+-
+76.119.5.108
+0 2 0 0 0 0
+-
+199.30.24.118
+0 1 0 0 0 0
+-
+157.55.39.29
+0 1 0 767 0 0
+-
+107.77.106.124
+0 3 3 463244 0 0
+-
+76.118.179.197
+0 3 2 11409 0 0
+-
+50.189.128.166
+0 20 20 1581836 0 0
+-
+71.192.51.82
+0 53 38 3135589 1 1494290668
+/mobile/images/sponsors/2017/
+174.192.25.138
+0 2 1 0 1 1493930455
+/
+73.119.140.196
+0 25 24 959811 1 1493925468
+/mobile/images/sponsors/2017/BeautyPaRLR
+12.130.117.15
+0 15 3 20297 1 1493836487
+/mobile/images/sponsors/2017/
+12.189.154.15
+0 1 1 0 0 0
+-
+71.126.252.11
+0 14 3 19775 1 1493658326
+/mobile/images/sponsors/2017/
+174.192.31.169
+0 1 1 34663 1 1494005666
+/
+199.30.24.137
+0 5 0 0 0 0
+-
+138.162.0.41
+0 5 0 0 0 0
+-
+65.55.210.132
+0 1 0 0 0 0
+-
+12.189.199.68
+0 23 23 1697730 0 0
+-
+138.197.111.195
+0 2 0 767 1 1494269345
+/
+199.30.24.242
+0 1 0 0 0 0
+-
+12.130.14.76
+0 1 1 0 0 0
+-
+213.186.8.43
+0 1 1 33575 1 1493794817
+/
+73.60.84.10
+0 18 8 130491 1 1493928310
+/mobile/images/sponsors/2017/
+66.37.42.2
+0 19 4 20297 1 1493809899
+/mobile/images/sponsors/2017/
+73.61.121.237
+0 97 42 3439305 1 1494171045
+/mobile/images/sponsors/2017/A1B_Abe
+73.100.240.213
+0 1 1 0 0 0
+-
+69.26.103.133
+0 51 2 66624 0 0
+-
+185.31.161.102
+0 2 0 1534 1 1494121479
+-
+73.61.15.165
+0 74 71 4469675 0 0
+-
+71.233.224.147
+0 1 1 0 0 0
+-
+94.142.242.84
+0 1 0 767 1 1494357796
+-
+65.55.210.189
+0 3 0 0 1 1494382049
+/mobile/images/sponsors/2017/BeautyPaRLR
+208.64.112.35
+0 1 1 0 0 0
+-
+199.30.24.255
+0 3 0 0 1 1493999006
+/
+64.238.139.182
+0 4 3 119661 0 0
+-
+50.235.68.130
+0 5 5 543400 0 0
+-
+24.62.3.67
+0 2 2 87485 0 0
+-
+73.123.181.92
+0 24 7 30988 1 1493752763
+/mobile/images/sponsors/2017/
+98.229.30.29
+0 2 2 606 0 0
+-
+94.177.236.179
+0 1 1 83588 0 0
+-
+173.166.77.28
+0 2 2 145143 0 0
+-
+50.204.108.74
+0 1 1 0 0 0
+-
+174.199.28.237
+0 1 0 0 1 1494093861
+/
+174.192.12.206
+0 11 3 68974 1 1494153421
+/
+174.63.104.148
+0 34 19 1391150 1 1494232883
+/mobile/images/sponsors/2017/Dooney 
+# End Of Table - sites (monthly)
+# -sites- (daily)
+174.205.13.183
+0 3 0 0 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://downandderbyboston.org/blueimp/css/blueimp-gallery.min.css
+1 35
+http://www.downandderbyboston.org/mobile/css/font-awesome.min.css
+1 12
+http://www.downandderbyboston.com/mobile/themes/derby.min.css
+1 1
+http://www.google.com/url
+1 177
+http://lm.facebook.com/l.php
+0 1
+http://downandderbyboston.org/
+1 6343
+http://downandderbyboston.org/mobile/css/derby.css
+1 5
+http://www.downandderbyboston.org/
+1 12891
+http://www.downandderbyboston.org/style/font-awesome.min.css
+1 64
+http://finder.cox.net/main
+0 1
+http://downandderbyboston.com/
+1 28
+android-app://com.google.android.googlequicksearchbox
+1 1
+http://downandderbyboston.org/favicon.ico
+1 6
+http://l.instagram.com/
+0 2
+https://downandderbybostonor.ipage.com/stats/index.html
+1 1
+http://www.downandderbyboston.com/mobile/css/font-awesome.min.css
+1 3
+http://r.search.yahoo.com/_ylt
+1 2
+https://www.facebook.com/
+0 5
+http://www.downandderbyboston.org/mobile/themes/derby.min.css
+1 37
+http://www.downandderbyboston.org/mobile/css/derby.css
+1 3
+https://www.ipage.com/controlpanel/VisitorStats.bml
+1 10
+https://www.google.com/
+1 55
+- (Direct Request)
+0 1669
+http://downandderbyboston.org/mobile/themes/jquery.mobile.icons.min.css
+1 100
+https://slack.com
+0 1
+http://m.facebook.com
+0 11
+http://www.bing.com/search
+0 3
+http://downandderbyboston.org/style/font-awesome.min.css
+1 27
+https://www.bing.com/search
+0 4
+http://m.facebook.com/
+0 2
+http://www.bing.com
+0 1
+Google
+2 237
+https://downandderbybostonor.ipage.com/stats/usage_201704.html
+1 6
+http://www.downandderbyboston.org/mobile/images/sponsors/2017/BriarGroup.jpg
+1 7
+https://www.bing.com/
+0 3
+http://downandderbyboston.org/mobile/css/addevent/addevent.css
+1 5
+http://www.downandderbyboston.org/notify-SYFB_Coaching-NotifyUser
+1 1
+http://downandderbyboston.org
+1 8
+http://www.downandderbyboston.org/blueimp/css/blueimp-gallery.min.css
+1 89
+https://downandderbybostonor.ipage.com/stats/usage_201705.html
+1 15
+http://www.downandderbyboston.org/mobile/css/addevent/addevent.css
+1 10
+https://google.com/
+1 2
+https://l.facebook.com/
+0 1
+http://www.google.com/
+1 2
+http://www.downandderbyboston.com/blueimp/css/blueimp-gallery.min.css
+1 2
+https://downandderbybostonor.ipage.com/stats/
+1 19
+http://www.downandderbyboston.com/
+1 846
+http://www.downandderbyboston.org/mobile/images/celebrity/julia.jpg
+1 1
+Yahoo!
+2 2
+http://downandderbyboston.org/mobile/themes/derby.min.css
+1 10
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0
+0 21145
+MobileSafari/602.1 CFNetwork/808.3 Darwin/16.3.0
+0 7
+Twitterbot/1.0
+0 9
+MetaURI API/2.0 +metauri.com
+0 1
+AhrefsBot/5.2
+0 1
+DuckDuckGo-Favicons-Bot/1.0
+0 9
+Netscape 6 compatible
+2 21145
+Mediatoolkitbot (complaints@mediatoolkit.com)
+0 2
+SiteLockSpider [en] (WinNT; I ;Nav)
+0 87
+facebookexternalhit/1.1
+0 6
+Netscape 4 (or compatible)
+2 38
+msnbot-media/1.1 (+http://search.msn.com/msnbot.htm)
+0 1
+ia_archiver
+0 1
+Slackbot-LinkExpanding 1.0 (+https://api.slack.com/robots)
+0 1
+rogerbot/1.0 (http://moz.com/help/pro/what-is-rogerbot-, rogerbot-crawler+shiny@moz.com)
+0 2
+com.google.GoogleMobile/25.0.0 iPhone/10.3.1 hw/iPhone9_2
+0 1
+Mozilla/4.0 (compatible;)
+0 38
+Googlebot-Image/1.0
+0 229
+Agent
+0 1
+Yahoo! Slurp
+0 3
+MSIE 8.0
+0 163
+Safari/12602.4.8 CFNetwork/807.2.14 Darwin/16.4.0 (x86_64)
+0 132
+Internet Explorer 6
+2 2
+WikiDo/1.1 (http://wikido.com; crawler@wikido.com)
+0 2
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 6
+Baiduspider/2.0
+0 3
+MSIE 9.0
+0 223
+Dalvik/2.1.0 (Linux; U; Android 7.0; XT1650 Build/NCLS25.86-11-4-6-8)
+0 5
+Googlebot/2.1
+0 110
+Apache-HttpClient/UNAVAILABLE (java 1.4)
+0 1
+MobileSafari/602.1 CFNetwork/811.4.18 Darwin/16.5.0
+0 203
+MSIE 6.0
+0 2
+BUFF library user agent
+0 1
+YandexBot/3.0
+0 7
+MJ12bot/v1.4
+0 3
+SalesIntelligent (+https://www.salesintelligent.com)
+0 4
+MobileSafari/602.1 CFNetwork/808.1.4 Darwin/16.1.0
+0 2
+bingbot/2.0
+0 116
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+downandderbybostonor
+0 46 46 1221881 6 1494412466
+# End Of Table - usernames

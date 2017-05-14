@@ -1,0 +1,482 @@
+@font-face 
+{
+  font-family: 'Great Vibes';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Great Vibes'), local('GreatVibes-Regular'), url(fonts/GreatVibes.woff) format('woff');
+}
+/*iphone 6 portrait*/
+body {
+    background-color: white !important;
+    text-align: center;
+    margin: 0;
+}
+.cursive 
+{
+	font-family: 'Great Vibes', cursive;
+}
+.photoYear
+{
+	text-decoration:underline;
+	cursor:pointer;
+}
+.photoYearParent
+{
+	text-align:center;
+}
+#wrapper {
+    text-align: left;
+    margin: 0 auto;
+    position: relative;
+    overflow: visible;
+    height: 100%;
+    width: 375px;
+}
+
+.fa-picture-o
+{
+	font-size:28px;
+    z-index: 1;
+    top: 0px;
+    margin: 0;
+}
+#blueimp-image-carousel
+{
+	height:100%;
+	width:100%;
+}
+div.links
+{
+	text-align:center;
+}
+.respond p {
+    text-align: left !important;
+}
+
+.respondPhoto {
+    padding-right: 5px;
+    float: left;
+    vertical-align: middle;
+    width: 180px;
+}
+.photoYear:active { 
+    background-color: yellow;
+}
+.tophatsponsors{
+	text-align:center;
+}
+img.tophatsponsors{
+	height:100px;
+}
+.photospacer
+{
+		padding:4px;
+}
+.ui-btn {
+    margin-bottom: 2px;
+}
+
+.ui-body-a {
+    border-width: 0px;
+}
+
+.ui-page {
+    background-color: white !important;
+    height: 100%;
+}
+.ui-content{
+overflow-x: visible !important;
+}
+/* Global typography and design elements, stacked containers */
+p {
+    margin: 0px;
+}
+
+.pageHeader {
+    background-color: white !important;
+    width: 414px;
+    border: none;
+}
+.pageHeader img{max-width: 414px;}
+
+#food .pageHeader img {
+    width: 70%;
+}
+
+.goDirections {
+    width: 60px;
+    margin-left: 0px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#map {
+    width: 325px;
+    height: 325px;
+}
+
+.event-details-map {
+    cursor: pointer;
+}
+
+.horse {
+    opacity: 1.0;
+    text-align: center;
+}
+
+    .horse img {
+        width: 150px;
+        cursor: pointer;
+    }
+
+.item-img {
+    text-align: center;
+}
+
+.caption,
+.navDesc {
+    font-size: small;
+    font-style: italic;
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+.sets {
+    z-index: 10;
+overflow:hidden;
+}
+
+.headerBanner {
+    text-align: center;
+    position: absolute;
+    left: 1.1em;
+	top:1.1em;
+    float:left;
+    opacity: 0.6;
+    z-index: 1;
+}
+
+#bannerimg {
+    width:300px;
+	opacity: hide
+}
+
+.blueimp-gallery-carousel {
+    margin: 0px;
+}
+
+#middleContainer {
+    height: 52px;
+    max-height: 52px;
+    z-index: 50;
+    position: relative;
+    top: 10px;
+}
+
+.benefit {
+    float: left;
+    position: absolute;
+}
+.social {
+    float: left;
+    position: absolute;
+    left: 185px;
+    top: 10px;
+}
+.fb_iframe_widget,
+.fb_iframe_widget *,
+#twitter-widget-0,
+#twitter-widget-0 *,
+.social td.facebookTwitter,
+.social td.facebookTwitter *
+ {
+    vertical-align: middle;
+    overflow: hidden !important;
+    height: 27px !important;
+    width: 27px !important;
+    max-width: 27px !important;
+    margin-bottom: 2px !important;
+	border-radius:2px !important;
+    font-size: 1px !important; /* keeps buttons in line */
+}
+.social * .calendar
+{
+    height: 27px !important;
+    width: 27px !important;
+}
+.social * .calendar *
+{
+    overflow: visible !important;
+   overflow-x: visible !important;
+}
+.social .fa-envelope {
+    font-size: 27px !important;
+    color: #7da14f;
+}
+.ui-mobile .ui-page-active
+{
+	overflow-x: visible!important;
+}
+  td.email {
+        padding-bottom: 5px;
+    }
+
+     td.calendar {
+        padding-bottom: 4px;
+		overflow:visible !important;
+    }
+ td.calendar * {
+		overflow:visible !important;
+    }
+
+.addeventatc_icon {
+    visibility: hidden;
+}
+
+#addeventatc1 {
+    height: 28px;
+    z-index:99999 !important;
+}
+
+#addeventatc1 * {
+    overflow:visible;
+    z-index:99999 !important;
+}
+#tagline {
+    text-align: left;
+    position: absolute;
+    top: 185px;
+    left: 1em;
+    z-index: 1;
+    position: absolute;
+    margin-left: 2px;
+    font-size: 12px;
+    color: white;
+	text-shadow:0px 0px 0px !important;
+	opacity: hide
+}
+
+.caption {
+    text-align: center;
+    font-weight: bold;
+}
+
+#benefit_for_respond {
+    width: 150px;
+}
+
+#one .sets {
+    margin-top:10px;
+}
+
+#one .sets  p {
+    margin: 2px 2px 4px 2px;
+}
+
+/* Start with core styles outside of a media query that apply to mobile and up */
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+* html .clearfix {
+    zoom: 1;
+}
+/* IE6 */
+
+*:first-child + html .clearfix {
+    zoom: 1;
+}
+/* IE7 */
+
+/* First breakpoint at 414px (iphone 6s portrait)*/
+/* Inherits mobile styles, but floats containers to make columns */
+@media all and (min-width: 414px) {
+    #wrapper {
+        width: 414px;
+    }
+.pageHeader img{
+    max-width: 667px;
+}
+    #headerGallery {
+        height: 235px;
+        max-height: 235px;
+        top: 295px;
+    }
+
+    .social {
+        left: 225px;
+    }
+
+    #map {
+        width: 390px;
+        height: 390px;
+    }
+
+}
+/* Second breakpoint at 667 (iphone 6 landscape)*/
+/* Inherits mobile styles, but floats containers to make columns */
+@media all and (min-width: 667px) {
+    #wrapper {
+        width: 667px;
+    }
+	.pageHeader img{
+    max-width: 736px;
+}
+	#tagline {
+        color: white;
+        top: 160px;
+    }
+    .social {
+        top: 15px;
+        left: 445px;
+        z-index: 30;
+    }
+
+	#middleContainer{
+		top: 175px;
+		position: absolute;
+		left: 1em;
+	}
+    .caption {
+        min-height: 50px;
+        max-height: 50px;
+        height: 50px;
+    }
+
+    p.navDesc {
+        vertical-align: top;
+        text-align: left;
+		padding-bottom:1em;
+    }
+	
+    .setitem {
+        margin: 5px;
+    }
+
+	.sets .set
+	{ 
+		width:200px;
+	}
+	
+	#one .sets{
+		margin-top:0px;
+		position:absolute;
+		top:222px;
+		opacity:0.7;
+	}
+	
+	#one .sets span  {
+		width: 202px;
+	}
+    .sets > .set1 {
+        float: left;
+    }
+
+    .sets > .set2 {
+        float: left;
+    }
+
+    .sets > .set3 {
+        float: left;
+    }
+    #map {
+        width: 600px;
+        height: 600px;
+    }
+	
+}
+/* Third breakpoint at 736px iphone 6s landscape*/
+/* Adjusts column proportions, tweaks base H1 */
+@media all and (min-width: 736px) {
+    #wrapper {
+        width: 736px;
+    }
+	.pageHeader img {
+    max-width: 800px;
+}
+    #tagline {
+        top: 175px;
+    }
+	
+	#middleContainer{
+		top: 210px;
+		padding-left:5px;
+	}
+
+	 .caption {
+        min-height: 40px;
+        max-height: 40px;
+        height: 40px;
+    }
+
+	.sets .set
+	{ 
+		width:220px;
+	}
+	
+	#one .sets{
+		top:260px;
+	}
+	
+	#one .sets span  {
+		width: 225px;
+	}
+
+    .social {
+        top: 15px;
+        left: 515px;
+    }
+
+    #map {
+        width: 600px;
+        height: 600px;
+    }
+}
+/* fourth breakpoint at 800px screen*/
+/* Adjusts column proportions, tweaks base H1 */
+@media all and (min-width: 800px) {
+    #wrapper {
+        width: 800px;
+    }
+
+	#middleContainer{
+		position:relative;
+		top: 10px;
+	}
+	.caption{
+		height:100%;
+		min-height:100%;
+		max-height:100%;
+	}
+	.sets .set
+	{ 
+		width:240px;
+	}
+	
+	#one .sets{
+		top:10px;
+		position:relative;
+		opacity:1.0;
+	}
+	
+	#one .sets span  {
+		width: 255px;
+	}
+	p.navDesc{
+		padding-bottom:0px;
+	}
+    .social {
+        left: 595px;
+    }
+
+    #map {
+        width: 750px;
+        height: 750px;
+    }
+}

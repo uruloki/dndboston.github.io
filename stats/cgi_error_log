@@ -1,0 +1,51 @@
+20160319T124812: www.downandderbyboston.org/php/helloworld.php
+PHP Parse error:  syntax error, unexpected end of file in /hermes/bosnaweb08a/b2575/ipg.downandderbybostonor/php/helloworld.php on line 10
+
+20160319T124829: www.downandderbyboston.org/php/helloworld.php
+PHP Parse error:  syntax error, unexpected end of file in /hermes/bosnaweb08a/b2575/ipg.downandderbybostonor/php/helloworld.php on line 9
+
+20160319T124830: www.downandderbyboston.org/php/helloworld.php
+PHP Parse error:  syntax error, unexpected end of file in /hermes/bosnaweb08a/b2575/ipg.downandderbybostonor/php/helloworld.php on line 9
+
+20160319T124851: www.downandderbyboston.org/php/helloworld.php
+PHP Parse error:  syntax error, unexpected end of file in /hermes/bosnaweb08a/b2575/ipg.downandderbybostonor/php/helloworld.php on line 10
+
+20160319T124852: www.downandderbyboston.org/php/helloworld.php
+PHP Parse error:  syntax error, unexpected end of file in /hermes/bosnaweb08a/b2575/ipg.downandderbybostonor/php/helloworld.php on line 10
+
+20160319T124910: www.downandderbyboston.org/php/helloworld.php
+PHP Parse error:  syntax error, unexpected end of file in /hermes/bosnaweb08a/b2575/ipg.downandderbybostonor/php/helloworld.php on line 10
+
+20160319T124911: www.downandderbyboston.org/php/helloworld.php
+PHP Parse error:  syntax error, unexpected end of file in /hermes/bosnaweb08a/b2575/ipg.downandderbybostonor/php/helloworld.php on line 10
+
+20160319T124911: www.downandderbyboston.org/php/helloworld.php
+PHP Parse error:  syntax error, unexpected end of file in /hermes/bosnaweb08a/b2575/ipg.downandderbybostonor/php/helloworld.php on line 10
+
+20160319T125137: www.downandderbyboston.org/php/driver.php
+PHP Fatal error:  Call to undefined function quote() in /hermes/bosnaweb08a/b2575/ipg.downandderbybostonor/php/dbwrapper.php on line 11
+
+20160319T125224: www.downandderbyboston.org/php/driver.php
+PHP Fatal error:  Call to undefined function quote() in /hermes/bosnaweb08a/b2575/ipg.downandderbybostonor/php/dbwrapper.php on line 11
+
+20160319T125232: www.downandderbyboston.org/php/driver.php
+PHP Fatal error:  Call to undefined function quote() in /hermes/bosnaweb08a/b2575/ipg.downandderbybostonor/php/dbwrapper.php on line 11
+
+20160319T125424: www.downandderbyboston.org/php/driver.php
+PHP Fatal error:  Call to undefined function quote() in /hermes/bosnaweb08a/b2575/ipg.downandderbybostonor/php/dbwrapper.php on line 11
+
+20160319T125448: www.downandderbyboston.org/php/driver.php
+PHP Fatal error:  Call to undefined function quote() in /hermes/bosnaweb08a/b2575/ipg.downandderbybostonor/php/dbwrapper.php on line 11
+
+20160319T125522: www.downandderbyboston.org/php/driver.php
+PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hermes/bosnaweb08a/b2575/ipg.downandderbybostonor/php/dbwrapper.php on line 14
+
+20160319T125524: www.downandderbyboston.org/php/driver.php
+PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hermes/bosnaweb08a/b2575/ipg.downandderbybostonor/php/dbwrapper.php on line 14
+
+20160319T125529: www.downandderbyboston.org/php/driver.php
+PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hermes/bosnaweb08a/b2575/ipg.downandderbybostonor/php/dbwrapper.php on line 14
+
+20160319T125534: www.downandderbyboston.org/php/driver.php
+PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /hermes/bosnaweb08a/b2575/ipg.downandderbybostonor/php/dbwrapper.php on line 14
+
